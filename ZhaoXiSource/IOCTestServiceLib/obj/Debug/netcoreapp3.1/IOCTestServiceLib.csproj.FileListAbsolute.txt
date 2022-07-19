@@ -1,0 +1,12 @@
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\bin\Debug\netcoreapp3.1\IOCTestServiceLib.deps.json
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\bin\Debug\netcoreapp3.1\IOCTestServiceLib.dll
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\bin\Debug\netcoreapp3.1\IOCTestServiceLib.pdb
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\bin\Debug\netcoreapp3.1\IOCTestInterfaceLib.dll
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\bin\Debug\netcoreapp3.1\IOCTestInterfaceLib.pdb
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\obj\Debug\netcoreapp3.1\IOCTestServiceLib.csprojAssemblyReference.cache
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\obj\Debug\netcoreapp3.1\IOCTestServiceLib.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\obj\Debug\netcoreapp3.1\IOCTestServiceLib.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\obj\Debug\netcoreapp3.1\IOCTestServiceLib.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\obj\Debug\netcoreapp3.1\IOCTestServiceLib.csproj.CopyComplete
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\obj\Debug\netcoreapp3.1\IOCTestServiceLib.dll
+D:\架构学习\Source\ZhaoXiSource\IOCTestServiceLib\obj\Debug\netcoreapp3.1\IOCTestServiceLib.pdb

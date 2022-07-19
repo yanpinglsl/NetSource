@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "cwM45UrrnFa3Danj+JN7hvg6/lKwnO9YuYjz6Kyy4Fd2/V7ZvK3EdTh6jgQgnjkd5uPqJh0r18uWMHY/Tbf4Lw==",
+  "success": true,
+  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\ISMVC\\ISMVC.csproj",
+  "expectedPackageFiles": [
+    "D:\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.11\\microsoft.aspnetcore.authentication.openidconnect.5.0.11.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "D:\\packages\\microsoft.identitymodel.jsonwebtokens\\6.14.0\\microsoft.identitymodel.jsonwebtokens.6.14.0.nupkg.sha512",
+    "D:\\packages\\microsoft.identitymodel.logging\\6.14.0\\microsoft.identitymodel.logging.6.14.0.nupkg.sha512",
+    "D:\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "D:\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "D:\\packages\\microsoft.identitymodel.tokens\\6.14.0\\microsoft.identitymodel.tokens.6.14.0.nupkg.sha512",
+    "D:\\packages\\system.identitymodel.tokens.jwt\\6.14.0\\system.identitymodel.tokens.jwt.6.14.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

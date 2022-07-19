@@ -1,0 +1,9 @@
+D:\架构学习\Source\ZhaoXiSource\Practice.Common\bin\Debug\netcoreapp3.1\Practice.Common.deps.json
+D:\架构学习\Source\ZhaoXiSource\Practice.Common\bin\Debug\netcoreapp3.1\Practice.Common.dll
+D:\架构学习\Source\ZhaoXiSource\Practice.Common\bin\Debug\netcoreapp3.1\Practice.Common.pdb
+D:\架构学习\Source\ZhaoXiSource\Practice.Common\obj\Debug\netcoreapp3.1\Practice.Common.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\Practice.Common\obj\Debug\netcoreapp3.1\Practice.Common.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\Practice.Common\obj\Debug\netcoreapp3.1\Practice.Common.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\Practice.Common\obj\Debug\netcoreapp3.1\Practice.Common.dll
+D:\架构学习\Source\ZhaoXiSource\Practice.Common\obj\Debug\netcoreapp3.1\Practice.Common.pdb
+D:\架构学习\Source\ZhaoXiSource\Practice.Common\obj\Debug\netcoreapp3.1\Practice.Common.csprojAssemblyReference.cache

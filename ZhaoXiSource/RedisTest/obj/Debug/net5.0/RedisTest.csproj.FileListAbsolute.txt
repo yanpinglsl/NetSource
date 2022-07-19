@@ -1,0 +1,12 @@
+D:\架构学习\Source\ZhaoXiSource\RedisTest\bin\Debug\net5.0\RedisTest.deps.json
+D:\架构学习\Source\ZhaoXiSource\RedisTest\bin\Debug\net5.0\RedisTest.dll
+D:\架构学习\Source\ZhaoXiSource\RedisTest\bin\Debug\net5.0\ref\RedisTest.dll
+D:\架构学习\Source\ZhaoXiSource\RedisTest\bin\Debug\net5.0\RedisTest.pdb
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\net5.0\RedisTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\net5.0\RedisTest.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\net5.0\RedisTest.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\net5.0\RedisTest.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\net5.0\RedisTest.dll
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\net5.0\ref\RedisTest.dll
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\net5.0\RedisTest.pdb
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\net5.0\RedisTest.csprojAssemblyReference.cache

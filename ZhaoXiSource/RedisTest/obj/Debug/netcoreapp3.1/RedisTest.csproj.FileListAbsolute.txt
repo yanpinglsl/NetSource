@@ -1,0 +1,8 @@
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\netcoreapp3.1\RedisTest.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\netcoreapp3.1\RedisTest.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\netcoreapp3.1\RedisTest.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\RedisTest\bin\Debug\netcoreapp3.1\RedisTest.deps.json
+D:\架构学习\Source\ZhaoXiSource\RedisTest\bin\Debug\netcoreapp3.1\RedisTest.dll
+D:\架构学习\Source\ZhaoXiSource\RedisTest\bin\Debug\netcoreapp3.1\RedisTest.pdb
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\netcoreapp3.1\RedisTest.dll
+D:\架构学习\Source\ZhaoXiSource\RedisTest\obj\Debug\netcoreapp3.1\RedisTest.pdb

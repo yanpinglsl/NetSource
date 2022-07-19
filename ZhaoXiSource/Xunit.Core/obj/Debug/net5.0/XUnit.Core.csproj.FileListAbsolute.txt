@@ -1,0 +1,94 @@
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\XUnit.Core.exe
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\XUnit.Core.deps.json
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\XUnit.Core.runtimeconfig.json
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\XUnit.Core.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\XUnit.Core.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\ref\XUnit.Core.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\XUnit.Core.pdb
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\XUnit.Core.xml
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\XUnit.Core.Views.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\XUnit.Core.Views.pdb
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\RazorEngine.NetCore.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\Spire.Doc.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\Spire.License.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\Spire.Pdf.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.RazorAssemblyInfo.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.RazorAssemblyInfo.cs
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\staticwebassets\XUnit.Core.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\staticwebassets\XUnit.Core.StaticWebAssets.xml
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\scopedcss\bundle\XUnit.Core.styles.css
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.TagHelpers.input.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.TagHelpers.output.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.RazorCoreGenerate.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\Razor\wwwroot\SwaggerDoc.cshtml.g.cs
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.Views.pdb
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.csproj.CopyComplete
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\ref\XUnit.Core.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.pdb
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\net5.0\XUnit.Core.genruntimeconfig.cache
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\appsettings.Development.json
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\appsettings.json
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\XUnit.Core.exe
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\XUnit.Core.deps.json
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\XUnit.Core.runtimeconfig.json
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\XUnit.Core.runtimeconfig.dev.json
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\XUnit.Core.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\ref\XUnit.Core.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\XUnit.Core.pdb
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\XUnit.Core.xml
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\XUnit.Core.Views.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\XUnit.Core.Views.pdb
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\RazorEngine.NetCore.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\Spire.Doc.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\Spire.License.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\Spire.Pdf.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.csprojAssemblyReference.cache
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.MvcApplicationPartsAssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.MvcApplicationPartsAssemblyInfo.cache
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.RazorAssemblyInfo.cache
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.RazorAssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\staticwebassets\XUnit.Core.StaticWebAssets.Manifest.cache
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\staticwebassets\XUnit.Core.StaticWebAssets.xml
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\scopedcss\bundle\XUnit.Core.styles.css
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.TagHelpers.input.cache
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.TagHelpers.output.cache
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.RazorCoreGenerate.cache
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\Razor\wwwroot\SwaggerDoc.cshtml.g.cs
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.RazorTargetAssemblyInfo.cache
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.RazorTargetAssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.Views.pdb
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.csproj.CopyComplete
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\ref\XUnit.Core.dll
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.pdb
+D:\架构学习\Source\ZhaoXiSource\Xunit.Core\obj\Debug\net5.0\XUnit.Core.genruntimeconfig.cache

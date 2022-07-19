@@ -1,0 +1,9 @@
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\netcoreapp3.1\ExtendLib.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\netcoreapp3.1\ExtendLib.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\netcoreapp3.1\ExtendLib.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\bin\Debug\netcoreapp3.1\ExtendLib.deps.json
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\bin\Debug\netcoreapp3.1\ExtendLib.dll
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\bin\Debug\netcoreapp3.1\ExtendLib.pdb
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\netcoreapp3.1\ExtendLib.dll
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\netcoreapp3.1\ExtendLib.pdb
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\netcoreapp3.1\ExtendLib.csprojAssemblyReference.cache

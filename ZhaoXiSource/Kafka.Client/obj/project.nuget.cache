@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k45oR3AunYGGndz7qFL7fe6TtDyACopls98QWWIfRrqFkVkzIoNjHOTNPXdrSLzgyR0opv4M/yA06T43pND1aw==",
+  "success": true,
+  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\Kafka.Client\\Kafka.Consume.csproj",
+  "expectedPackageFiles": [
+    "D:\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
+    "D:\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",
+    "D:\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

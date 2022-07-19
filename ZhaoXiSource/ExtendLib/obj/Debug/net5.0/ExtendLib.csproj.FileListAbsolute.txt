@@ -1,0 +1,12 @@
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\bin\Debug\net5.0\ExtendLib.deps.json
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\bin\Debug\net5.0\ExtendLib.dll
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\bin\Debug\net5.0\ref\ExtendLib.dll
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\bin\Debug\net5.0\ExtendLib.pdb
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\net5.0\ExtendLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\net5.0\ExtendLib.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\net5.0\ExtendLib.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\net5.0\ExtendLib.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\net5.0\ExtendLib.dll
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\net5.0\ref\ExtendLib.dll
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\net5.0\ExtendLib.pdb
+D:\架构学习\Source\ZhaoXiSource\ExtendLib\obj\Debug\net5.0\ExtendLib.csprojAssemblyReference.cache

@@ -1,0 +1,32 @@
+﻿@page "/userspage"
+@using BlazorDemo.Client.Components
+<h3>UserinfoPage</h3>
+<div class="row">
+    <div class="col-md-8">
+        <Search OnSearchChanged="SearchChanged" />
+    </div>
+    <br />
+    <div class="col-md-2">
+        <a class="btn btn-primary" href="/createuser">新增用户</a>
+    </div>
+</div>
+<div>
+    <button class="btn btn-primary" @onclick="@SayHello">Say Hello</button>
+    <h2>@Result</h2>
+</div>
+@*列表组件*@
+<div class="row">
+    @*<div class="col">
+        <div class="col">*@
+
+    <UserTable Userinfos="page_Userinfo" Count="page_Userinfo.Count" OnDeleted="DeleteUser" />
+    @*</div>
+        </div>*@
+</div>
+
+@*分页组件*@
+<div class="row">
+    <div class="col">
+        <Pagination Metadata="Metadata" Spread="2" SelectedPage="SelectedPage" />
+    </div>
+</div>

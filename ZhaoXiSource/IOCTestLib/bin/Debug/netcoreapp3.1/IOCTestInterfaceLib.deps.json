@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IOCTestInterfaceLib/1.0.0": {
+        "runtime": {
+          "IOCTestInterfaceLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IOCTestInterfaceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

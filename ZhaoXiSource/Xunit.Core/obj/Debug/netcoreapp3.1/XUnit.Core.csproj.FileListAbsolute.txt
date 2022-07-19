@@ -1,0 +1,232 @@
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\appsettings.json
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.exe
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.csprojAssemblyReference.cache
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\staticwebassets\XUnit.Core.StaticWebAssets.Manifest.cache
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\staticwebassets\XUnit.Core.StaticWebAssets.xml
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.AssemblyInfoInputs.cache
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.AssemblyInfo.cs
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorTargetAssemblyInfo.cache
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.deps.json
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.runtimeconfig.json
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.runtimeconfig.dev.json
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.pdb
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.MvcApplicationPartsAssemblyInfo.cs
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.MvcApplicationPartsAssemblyInfo.cache
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.csproj.CopyComplete
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.dll
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.pdb
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.xml
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.exe
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.deps.json
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.runtimeconfig.json
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.runtimeconfig.dev.json
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.pdb
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.xml
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.AssemblyInfoInputs.cache
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.AssemblyInfo.cs
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorTargetAssemblyInfo.cache
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.csproj.CopyComplete
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\staticwebassets\XUnit.Core.StaticWebAssets.Manifest.cache
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\staticwebassets\XUnit.Core.StaticWebAssets.xml
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.pdb
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\Spire.Doc.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\Spire.License.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.Views.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.Views.pdb
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorAssemblyInfo.cache
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorAssemblyInfo.cs
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.TagHelpers.input.cache
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.TagHelpers.output.cache
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorCoreGenerate.cache
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\Razor\wwwroot\SwaggerDoc.cshtml.g.cs
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorTargetAssemblyInfo.cs
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.Views.pdb
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\bin\Debug\netcoreapp3.1\RazorEngine.NetCore.dll
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ceville\Desktop\XUnit.Core\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.MvcApplicationPartsAssemblyInfo.cache
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\appsettings.json
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.exe
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.deps.json
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.runtimeconfig.json
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.runtimeconfig.dev.json
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.pdb
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.xml
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.Views.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.Views.pdb
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\RazorEngine.NetCore.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Spire.Doc.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Spire.License.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\共享文件\XUnit.Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\staticwebassets\XUnit.Core.StaticWebAssets.Manifest.cache
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\staticwebassets\XUnit.Core.StaticWebAssets.xml
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.MvcApplicationPartsAssemblyInfo.cs
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.MvcApplicationPartsAssemblyInfo.cache
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorAssemblyInfo.cache
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorAssemblyInfo.cs
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.AssemblyInfoInputs.cache
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.AssemblyInfo.cs
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.TagHelpers.input.cache
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.TagHelpers.output.cache
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorCoreGenerate.cache
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\Razor\wwwroot\SwaggerDoc.cshtml.g.cs
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorTargetAssemblyInfo.cache
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorTargetAssemblyInfo.cs
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.Views.pdb
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.csproj.CopyComplete
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.dll
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.pdb
+D:\共享文件\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.csprojAssemblyReference.cache
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.Views.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.Views.pdb
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\RazorEngine.NetCore.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Spire.Doc.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Spire.License.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\cnblogs\文章\swagger\XUnit.Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorAssemblyInfo.cache
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorAssemblyInfo.cs
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.TagHelpers.input.cache
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.TagHelpers.output.cache
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorCoreGenerate.cache
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\Razor\wwwroot\SwaggerDoc.cshtml.g.cs
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorTargetAssemblyInfo.cs
+E:\cnblogs\文章\swagger\XUnit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.Views.pdb
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\appsettings.json
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.exe
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.deps.json
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.runtimeconfig.json
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.runtimeconfig.dev.json
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.pdb
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.xml
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.Views.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.Views.pdb
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\RazorEngine.NetCore.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Spire.Doc.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Spire.License.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\staticwebassets\XUnit.Core.StaticWebAssets.Manifest.cache
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\staticwebassets\XUnit.Core.StaticWebAssets.xml
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.MvcApplicationPartsAssemblyInfo.cs
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.MvcApplicationPartsAssemblyInfo.cache
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorAssemblyInfo.cache
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorAssemblyInfo.cs
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.AssemblyInfoInputs.cache
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.AssemblyInfo.cs
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.TagHelpers.input.cache
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.TagHelpers.output.cache
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorCoreGenerate.cache
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\Razor\wwwroot\SwaggerDoc.cshtml.g.cs
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorTargetAssemblyInfo.cache
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorTargetAssemblyInfo.cs
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.Views.pdb
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.csproj.CopyComplete
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.dll
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.pdb
+E:\cnblogs\项目\git\SwaggerFile\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.exe
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.deps.json
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.runtimeconfig.json
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.pdb
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.xml
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.Views.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\XUnit.Core.Views.pdb
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\RazorEngine.NetCore.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\Spire.Doc.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\Spire.License.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\Spire.Pdf.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorAssemblyInfo.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorAssemblyInfo.cs
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\staticwebassets\XUnit.Core.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\staticwebassets\XUnit.Core.StaticWebAssets.xml
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\scopedcss\bundle\XUnit.Core.styles.css
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.TagHelpers.input.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.TagHelpers.output.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorCoreGenerate.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\Razor\wwwroot\SwaggerDoc.cshtml.g.cs
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.Views.pdb
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.csproj.CopyComplete
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.dll
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.pdb
+C:\Users\Administrator\Downloads\XUnit.Core番外篇 (1)\Xunit.Core\obj\Debug\netcoreapp3.1\XUnit.Core.genruntimeconfig.cache

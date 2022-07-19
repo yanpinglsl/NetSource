@@ -1,0 +1,5 @@
+D:\架构学习\Source\ZhaoXiSource\StackExchange.Redis\obj\Debug\net5.0\StackExchange.Redis.csprojAssemblyReference.cache
+D:\架构学习\Source\ZhaoXiSource\StackExchange.Redis\obj\Debug\net5.0\StackExchange.Redis.GeneratedMSBuildEditorConfig.editorconfig
+D:\架构学习\Source\ZhaoXiSource\StackExchange.Redis\obj\Debug\net5.0\StackExchange.Redis.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\StackExchange.Redis\obj\Debug\net5.0\StackExchange.Redis.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\StackExchange.Redis\obj\Debug\net5.0\StackExchange.Redis.csproj.CoreCompileInputs.cache

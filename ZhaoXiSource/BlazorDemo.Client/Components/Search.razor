@@ -1,0 +1,6 @@
+﻿<section style="margin-bottom: 10px">
+	<input type="text"  placeholder="搜索用户"
+		   @bind-value="@SearchTerm" @bind-value:event="oninput" />
+	<a class="btn btn-primary" href="javascript:void(0)" @onclick="SearchChanged">搜索</a>
+	@*<button type="button" class="btn btn-danger" @onclick="SearchChanged">搜索</button>*@
+</section>

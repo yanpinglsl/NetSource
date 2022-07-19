@@ -1,0 +1,9 @@
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\bin\Debug\netcoreapp3.1\MongoDBCommon.deps.json
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\bin\Debug\netcoreapp3.1\MongoDBCommon.dll
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\bin\Debug\netcoreapp3.1\MongoDBCommon.pdb
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\netcoreapp3.1\MongoDBCommon.csprojAssemblyReference.cache
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\netcoreapp3.1\MongoDBCommon.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\netcoreapp3.1\MongoDBCommon.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\netcoreapp3.1\MongoDBCommon.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\netcoreapp3.1\MongoDBCommon.dll
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\netcoreapp3.1\MongoDBCommon.pdb

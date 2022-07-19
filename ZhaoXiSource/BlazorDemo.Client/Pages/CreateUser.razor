@@ -1,0 +1,77 @@
+﻿@page "/createuser"
+@page "/edituser/{UserId:int}"
+@using BlazorDemo.Shared
+<h3>Employee Edit</h3>
+@if (!Saved)
+{
+    <EditForm Model="@Userinfo"
+              OnValidSubmit="@HandleValidSubmit"
+              OnInvalidSubmit="@HandleInvalidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary></ValidationSummary>
+
+        <!--<div class="form-group row">
+            <label for="userid" class="col-sm-2 col-form-label">编号</label>
+            <div class="col-sm-3">
+                <InputNumber class="form-control" id="userid" @bind-Value="@Userinfo.UserID" />-->
+        @*<ValidationMessage For="@(() => Userinfo.UserID)" />*@
+        <!--</div>
+        </div>-->
+        <div class="form-group row">
+            <label for="userName" class="col-sm-2 col-form-label">姓名</label>
+            <div class="col-sm-3">
+                <InputText class="form-control" id="userName" @bind-Value="@Userinfo.UserName" />
+                <ValidationMessage For="@(() => Userinfo.UserName)" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="birthDate" class="col-sm-2 col-form-label">出生日期</label>
+            <div class="col-sm-3">
+                <InputDate class="form-control" id="birthDate" @bind-Value="@Userinfo.BirthDate" />
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="gender" class="col-sm-2 col-form-label">性别</label>
+            <div class="col-sm-3">
+                <InputSelect class="form-control" id="gender" @bind-Value="@Userinfo.Gender">
+                    @foreach (var value in Enum.GetValues(typeof(Gender)))
+                        {
+                        <option value="@value">@value</option>
+                        }
+                </InputSelect>
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="departmentId" class="col-sm-2 col-form-label">部门</label>
+            <div class="col-sm-3">
+                <InputSelect class="form-control" id="departmentId" @bind-Value="@DeptId">
+                    @foreach (var department in DeptInfos)
+                        {
+                        <option value="@department.DeptId">@department.Name</option>
+                        }
+                </InputSelect>
+            </div>
+        </div>
+        <div class="form-group row offset-sm-2">
+            @if (UserId > 0)
+            {
+                <input type="button" value="Delete" class="btn btn-danger mr-2" @onclick="@DeleteEmployee" />
+            }
+            <button type="submit" class="btn btn-primary mr-2">Submit</button>
+
+            <button class="btn btn-secondary" @onclick="@GoBack">Go Back</button>
+        </div>
+
+    </EditForm>
+
+}
+else
+{
+    <div class="@CssClass" role="alert">
+        @Message
+    </div>
+}
+
+<SuccessNotification @ref="_notification" Url="users" />

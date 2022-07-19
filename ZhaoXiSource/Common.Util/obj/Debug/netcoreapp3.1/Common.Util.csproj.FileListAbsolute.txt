@@ -1,0 +1,8 @@
+D:\架构学习\Source\ZhaoXiSource\Common.Util\bin\Debug\netcoreapp3.1\Common.Util.deps.json
+D:\架构学习\Source\ZhaoXiSource\Common.Util\bin\Debug\netcoreapp3.1\Common.Util.dll
+D:\架构学习\Source\ZhaoXiSource\Common.Util\bin\Debug\netcoreapp3.1\Common.Util.pdb
+D:\架构学习\Source\ZhaoXiSource\Common.Util\obj\Debug\netcoreapp3.1\Common.Util.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\Common.Util\obj\Debug\netcoreapp3.1\Common.Util.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\Common.Util\obj\Debug\netcoreapp3.1\Common.Util.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\Common.Util\obj\Debug\netcoreapp3.1\Common.Util.dll
+D:\架构学习\Source\ZhaoXiSource\Common.Util\obj\Debug\netcoreapp3.1\Common.Util.pdb

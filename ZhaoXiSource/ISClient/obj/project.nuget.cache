@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lM6TD/X79huV2uofbYTZM0DrkKOubUoi8pCR+fzomBIgGVQjW0/1/2eSrFEYEav5uWGB5p8P8WFERwPmxslsDw==",
+  "success": true,
+  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\ISClient\\ISClient.csproj",
+  "expectedPackageFiles": [
+    "D:\\packages\\identitymodel\\5.2.0\\identitymodel.5.2.0.nupkg.sha512",
+    "D:\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "D:\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "D:\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "D:\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

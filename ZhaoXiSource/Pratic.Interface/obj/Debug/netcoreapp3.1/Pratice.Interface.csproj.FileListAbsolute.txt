@@ -1,0 +1,12 @@
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\obj\Debug\netcoreapp3.1\Pratice.Interface.csprojAssemblyReference.cache
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\obj\Debug\netcoreapp3.1\Pratice.Interface.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\obj\Debug\netcoreapp3.1\Pratice.Interface.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\obj\Debug\netcoreapp3.1\Pratice.Interface.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\bin\Debug\netcoreapp3.1\Pratice.Interface.deps.json
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\bin\Debug\netcoreapp3.1\Pratice.Interface.dll
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\bin\Debug\netcoreapp3.1\Pratice.Interface.pdb
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\bin\Debug\netcoreapp3.1\Practice.Common.dll
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\bin\Debug\netcoreapp3.1\Practice.Common.pdb
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\obj\Debug\netcoreapp3.1\Pratice.Interface.csproj.CopyComplete
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\obj\Debug\netcoreapp3.1\Pratice.Interface.dll
+D:\架构学习\Source\ZhaoXiSource\Pratic.Interface\obj\Debug\netcoreapp3.1\Pratice.Interface.pdb

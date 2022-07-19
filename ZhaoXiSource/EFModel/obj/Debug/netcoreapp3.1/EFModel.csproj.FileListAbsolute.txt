@@ -1,0 +1,9 @@
+D:\架构学习\Source\ZhaoXiSource\EFModel\bin\Debug\netcoreapp3.1\EFModel.deps.json
+D:\架构学习\Source\ZhaoXiSource\EFModel\bin\Debug\netcoreapp3.1\EFModel.dll
+D:\架构学习\Source\ZhaoXiSource\EFModel\bin\Debug\netcoreapp3.1\EFModel.pdb
+D:\架构学习\Source\ZhaoXiSource\EFModel\obj\Debug\netcoreapp3.1\EFModel.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\EFModel\obj\Debug\netcoreapp3.1\EFModel.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\EFModel\obj\Debug\netcoreapp3.1\EFModel.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\EFModel\obj\Debug\netcoreapp3.1\EFModel.dll
+D:\架构学习\Source\ZhaoXiSource\EFModel\obj\Debug\netcoreapp3.1\EFModel.pdb
+D:\架构学习\Source\ZhaoXiSource\EFModel\obj\Debug\netcoreapp3.1\EFModel.csprojAssemblyReference.cache

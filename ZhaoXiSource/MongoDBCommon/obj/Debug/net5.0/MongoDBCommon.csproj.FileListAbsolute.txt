@@ -1,0 +1,12 @@
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\bin\Debug\net5.0\MongoDBCommon.deps.json
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\bin\Debug\net5.0\MongoDBCommon.dll
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\bin\Debug\net5.0\ref\MongoDBCommon.dll
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\bin\Debug\net5.0\MongoDBCommon.pdb
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\net5.0\MongoDBCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\net5.0\MongoDBCommon.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\net5.0\MongoDBCommon.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\net5.0\MongoDBCommon.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\net5.0\MongoDBCommon.dll
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\net5.0\ref\MongoDBCommon.dll
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\net5.0\MongoDBCommon.pdb
+D:\架构学习\Source\ZhaoXiSource\MongoDBCommon\obj\Debug\net5.0\MongoDBCommon.csprojAssemblyReference.cache

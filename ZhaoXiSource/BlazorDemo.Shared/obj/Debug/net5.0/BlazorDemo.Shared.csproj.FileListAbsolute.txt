@@ -1,0 +1,12 @@
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\bin\Debug\net5.0\BlazorDemo.Shared.deps.json
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\bin\Debug\net5.0\BlazorDemo.Shared.dll
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\bin\Debug\net5.0\ref\BlazorDemo.Shared.dll
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\bin\Debug\net5.0\BlazorDemo.Shared.pdb
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\obj\Debug\net5.0\BlazorDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\obj\Debug\net5.0\BlazorDemo.Shared.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\obj\Debug\net5.0\BlazorDemo.Shared.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\obj\Debug\net5.0\BlazorDemo.Shared.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\obj\Debug\net5.0\BlazorDemo.Shared.dll
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\obj\Debug\net5.0\ref\BlazorDemo.Shared.dll
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\obj\Debug\net5.0\BlazorDemo.Shared.pdb
+D:\架构学习\Source\ZhaoXiSource\BlazorDemo.Shared\obj\Debug\net5.0\BlazorDemo.Shared.csprojAssemblyReference.cache

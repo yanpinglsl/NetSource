@@ -1,0 +1,12 @@
+﻿
+drop database demo;
+create database demo;
+use demo;
+create table log
+(
+   content varchar(255),
+   actiontime datetime default(getdate())
+)
+
+truncate table log;
+select * from log;

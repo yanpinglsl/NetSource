@@ -1,0 +1,9 @@
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\bin\Debug\netcoreapp3.1\RabbitMQ-Common.deps.json
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\bin\Debug\netcoreapp3.1\RabbitMQ-Common.dll
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\bin\Debug\netcoreapp3.1\RabbitMQ-Common.pdb
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\netcoreapp3.1\RabbitMQ-Common.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\netcoreapp3.1\RabbitMQ-Common.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\netcoreapp3.1\RabbitMQ-Common.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\netcoreapp3.1\RabbitMQ-Common.dll
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\netcoreapp3.1\RabbitMQ-Common.pdb
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\netcoreapp3.1\RabbitMQ-Common.csprojAssemblyReference.cache

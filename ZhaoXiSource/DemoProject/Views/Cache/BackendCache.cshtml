@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "MiddlewareCache";
+}
+
+<h1>BackendCache-Cache</h1>
+
+<h2>Url:@base.ViewBag.Url</h2>
+<h2>InternalUrl:@base.ViewBag.InternalUrl</h2>
+
+<h2>后台Action时间：@base.ViewBag.Now</h2>
+
+<h2>前端View时间： @DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss fff")</h2>
+
+<h2>MemoryCace时间：@base.ViewBag.MemoryCacheNow</h2>
+<h2>CustomMemoryCacheNow时间：@base.ViewBag.CustomMemoryCacheNow</h2>
+<h2>DistributedCacheNow时间：@base.ViewBag.DistributedCacheNow</h2>

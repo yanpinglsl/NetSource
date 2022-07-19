@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Provider\\RabbitMQ-Provider.csproj": {}
+  },
+  "projects": {
+    "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Common\\RabbitMQ-Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Common\\RabbitMQ-Common.csproj",
+        "projectName": "RabbitMQ-Common",
+        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Common\\RabbitMQ-Common.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Consumer\\RabbitMQ-Consumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Consumer\\RabbitMQ-Consumer.csproj",
+        "projectName": "RabbitMQ-Consumer",
+        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Consumer\\RabbitMQ-Consumer.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Consumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Common\\RabbitMQ-Common.csproj": {
+                "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Common\\RabbitMQ-Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Provider\\RabbitMQ-Provider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Provider\\RabbitMQ-Provider.csproj",
+        "projectName": "RabbitMQ-Provider",
+        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Provider\\RabbitMQ-Provider.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Provider\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Consumer\\RabbitMQ-Consumer.csproj": {
+                "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\RabbitMQ-Consumer\\RabbitMQ-Consumer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

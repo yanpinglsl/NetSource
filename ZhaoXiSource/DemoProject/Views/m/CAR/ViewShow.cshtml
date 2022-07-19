@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "ViewShow";
+}
+
+<h2>m----ViewShow2</h2>
+
+<div>m----当前View类型:
+    @this.GetType().AssemblyQualifiedName
+</div>
+<div>m----当前加载的View程序集111:</div>
+@foreach (var item in base.ViewBag.InfoList)
+{
+    <h3>@item</h3>
+}
+

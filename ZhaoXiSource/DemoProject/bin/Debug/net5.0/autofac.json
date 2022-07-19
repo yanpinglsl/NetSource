@@ -1,0 +1,55 @@
+﻿{
+  "defaultAssembly": "IOCTestInterfaceLib", //需要注册的服务接口所在的程序集名称
+  "components": [
+    {
+      "type": "IOCTestServiceLib.TestServiceA,IOCTestServiceLib", //第一个实现方法的具体名称，逗号分隔，第二个实现方法的具体名称
+      "services": [
+        {
+          "type": "IOCTestInterfaceLib.ITestServiceA,IOCTestInterfaceLib" //接口的具体名称
+        }
+      ],
+      "instanceScope": "single-instance", //单例
+      "injectProperties": true //是否支持属性注入
+    },
+    {
+      "type": "IOCTestServiceLib.TestServiceB,IOCTestServiceLib", //第一个实现方法的具体名称，逗号分隔，第二个实现方法的具体名称
+      "services": [
+        {
+          "type": "IOCTestInterfaceLib.ITestServiceB,IOCTestInterfaceLib" //接口的具体名称
+        }
+      ],
+      "instanceScope": "single-instance", //单例
+      "injectProperties": true //是否支持属性注入
+    },
+    {
+      "type": "IOCTestServiceLib.TestServiceC,IOCTestServiceLib", //第一个实现方法的具体名称，逗号分隔，第二个实现方法的具体名称
+      "services": [
+        {
+          "type": "IOCTestInterfaceLib.ITestServiceC,IOCTestInterfaceLib" //接口的具体名称
+        }
+      ],
+      "instanceScope": "single-instance", //单例
+      "injectProperties": true //是否支持属性注入
+    },
+    {
+      "type": "IOCTestServiceLib.TestServiceD,IOCTestServiceLib", //第一个实现方法的具体名称，逗号分隔，第二个实现方法的具体名称
+      "services": [
+        {
+          "type": "IOCTestInterfaceLib.ITestServiceD" //接口的具体名称
+        }
+      ],
+      "instanceScope": "single-instance", //单例
+      "injectProperties": true //是否支持属性注入
+    },
+    {
+      "type": "IOCTestServiceLib.TestServiceE,IOCTestServiceLib", //第一个实现方法的具体名称，逗号分隔，第二个实现方法的具体名称
+      "services": [
+        {
+          "type": "IOCTestInterfaceLib.ITestServiceE,IOCTestInterfaceLib" //接口的具体名称
+        }
+      ],
+      "instanceScope": "single-instance", //单例
+      "injectProperties": true //是否支持属性注入
+    }
+  ]
+}

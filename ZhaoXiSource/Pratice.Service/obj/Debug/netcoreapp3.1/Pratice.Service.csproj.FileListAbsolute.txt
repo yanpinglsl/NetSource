@@ -1,0 +1,14 @@
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\obj\Debug\netcoreapp3.1\Pratice.Service.csprojAssemblyReference.cache
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\obj\Debug\netcoreapp3.1\Pratice.Service.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\obj\Debug\netcoreapp3.1\Pratice.Service.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\obj\Debug\netcoreapp3.1\Pratice.Service.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\bin\Debug\netcoreapp3.1\Pratice.Service.deps.json
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\bin\Debug\netcoreapp3.1\Pratice.Service.dll
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\bin\Debug\netcoreapp3.1\Pratice.Service.pdb
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\bin\Debug\netcoreapp3.1\Practice.Common.dll
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\bin\Debug\netcoreapp3.1\Pratice.Interface.dll
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\bin\Debug\netcoreapp3.1\Pratice.Interface.pdb
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\bin\Debug\netcoreapp3.1\Practice.Common.pdb
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\obj\Debug\netcoreapp3.1\Pratice.Service.csproj.CopyComplete
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\obj\Debug\netcoreapp3.1\Pratice.Service.dll
+D:\架构学习\Source\ZhaoXiSource\Pratice.Service\obj\Debug\netcoreapp3.1\Pratice.Service.pdb

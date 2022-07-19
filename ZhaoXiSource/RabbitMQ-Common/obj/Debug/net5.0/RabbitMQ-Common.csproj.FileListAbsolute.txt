@@ -1,0 +1,12 @@
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\bin\Debug\net5.0\RabbitMQ-Common.deps.json
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\bin\Debug\net5.0\RabbitMQ-Common.dll
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\bin\Debug\net5.0\ref\RabbitMQ-Common.dll
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\bin\Debug\net5.0\RabbitMQ-Common.pdb
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\net5.0\RabbitMQ-Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\net5.0\RabbitMQ-Common.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\net5.0\RabbitMQ-Common.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\net5.0\RabbitMQ-Common.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\net5.0\RabbitMQ-Common.dll
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\net5.0\ref\RabbitMQ-Common.dll
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\net5.0\RabbitMQ-Common.pdb
+D:\架构学习\Source\ZhaoXiSource\RabbitMQ-Common\obj\Debug\net5.0\RabbitMQ-Common.csprojAssemblyReference.cache

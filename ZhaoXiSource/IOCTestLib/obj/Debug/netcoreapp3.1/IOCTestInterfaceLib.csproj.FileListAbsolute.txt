@@ -1,0 +1,8 @@
+D:\架构学习\Source\ZhaoXiSource\IOCTestLib\bin\Debug\netcoreapp3.1\IOCTestInterfaceLib.deps.json
+D:\架构学习\Source\ZhaoXiSource\IOCTestLib\bin\Debug\netcoreapp3.1\IOCTestInterfaceLib.dll
+D:\架构学习\Source\ZhaoXiSource\IOCTestLib\bin\Debug\netcoreapp3.1\IOCTestInterfaceLib.pdb
+D:\架构学习\Source\ZhaoXiSource\IOCTestLib\obj\Debug\netcoreapp3.1\IOCTestInterfaceLib.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\IOCTestLib\obj\Debug\netcoreapp3.1\IOCTestInterfaceLib.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\IOCTestLib\obj\Debug\netcoreapp3.1\IOCTestInterfaceLib.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\IOCTestLib\obj\Debug\netcoreapp3.1\IOCTestInterfaceLib.dll
+D:\架构学习\Source\ZhaoXiSource\IOCTestLib\obj\Debug\netcoreapp3.1\IOCTestInterfaceLib.pdb

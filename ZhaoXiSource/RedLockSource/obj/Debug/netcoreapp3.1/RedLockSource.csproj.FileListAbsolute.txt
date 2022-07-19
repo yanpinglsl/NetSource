@@ -1,0 +1,9 @@
+D:\架构学习\Source\ZhaoXiSource\RedLockSource\bin\Debug\netcoreapp3.1\RedLockSource.deps.json
+D:\架构学习\Source\ZhaoXiSource\RedLockSource\bin\Debug\netcoreapp3.1\RedLockSource.dll
+D:\架构学习\Source\ZhaoXiSource\RedLockSource\bin\Debug\netcoreapp3.1\RedLockSource.pdb
+D:\架构学习\Source\ZhaoXiSource\RedLockSource\obj\Debug\netcoreapp3.1\RedLockSource.AssemblyInfoInputs.cache
+D:\架构学习\Source\ZhaoXiSource\RedLockSource\obj\Debug\netcoreapp3.1\RedLockSource.AssemblyInfo.cs
+D:\架构学习\Source\ZhaoXiSource\RedLockSource\obj\Debug\netcoreapp3.1\RedLockSource.csproj.CoreCompileInputs.cache
+D:\架构学习\Source\ZhaoXiSource\RedLockSource\obj\Debug\netcoreapp3.1\RedLockSource.dll
+D:\架构学习\Source\ZhaoXiSource\RedLockSource\obj\Debug\netcoreapp3.1\RedLockSource.pdb
+D:\架构学习\Source\ZhaoXiSource\RedLockSource\obj\Debug\netcoreapp3.1\RedLockSource.csprojAssemblyReference.cache
