@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5vdrAjXK+ifI+qOgnfeEwb11e2evMQzoVh+yDC4pJKFstHJFr73ySK+fJCFUyhxdzy0cfhb+ntMR2Vgs2tE6oQ==",
+  "dgSpecHash": "dRYCs6wxl+QpXCDoFdMkBYpz/ZGjwvZo51xgrXDrk2IEFVOEoUlw7Yb4e1GsLouGQYE78HjNB+rd6y0PJa5mfA==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\ELK.Logstach_Redis\\ELK.Logstach_Redis.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ELK.Logstach_Redis\\ELK.Logstach_Redis.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.cryptography.internal\\2.1.1\\microsoft.aspnetcore.cryptography.internal.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.cryptography.keyderivation\\2.1.1\\microsoft.aspnetcore.cryptography.keyderivation.2.1.1.nupkg.sha512",

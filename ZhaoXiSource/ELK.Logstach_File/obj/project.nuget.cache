@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oSHXW+n+Jq8jrjb9Jw4bgJ0IK14wng92S5Aeb2ANdzM/3ysHbcWzyZiWIAnAEi9XFN7naJmjL19CIxUtWqDXoA==",
+  "dgSpecHash": "5dErSrp6y+UhsYGoAMwX6lL/gJJaLIiGpLh4agWKJ4dJVN5RB/9W5QnW69691lGQ+6KrvGF5EmhtkuYFQME/UQ==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\ELK.Logstach_File\\ELK.Logstach_File.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ELK.Logstach_File\\ELK.Logstach_File.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "D:\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",

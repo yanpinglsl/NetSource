@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WlfDMVVvSXUn9IOsBIA2SdmAfXO8AktYQtWI14MX8DeRVULTihTDP6i+InmwTlZ6rUJ6AZ/3VFnFOsBsAnV9iA==",
+  "dgSpecHash": "ksMka2DTZ1vXJrx49VSBUW01IDNHaaLr8+doOIofy0Gk1BhWczwBvEgUZPVxrKex7TzjFzCCpN6D1xn0GKSt7g==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\Kafka.Service\\Kafka.Produce.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\Kafka.Service\\Kafka.Produce.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
     "D:\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",

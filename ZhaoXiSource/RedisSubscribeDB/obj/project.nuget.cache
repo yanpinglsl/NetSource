@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/F459EJ8OfghyOL5Bz3O5jEuYWPVWG0FJWLGhcZrM0rUY8pvx3LKIjpGSOvLzJrawJEaO46s0GCpxGVekqTdXg==",
+  "dgSpecHash": "Bx+rkzL8LJ+UD0sMFEZ1UNwpx8/yTVl2lbHsSPnH6anOF7DIISA+KaEZ1aeu5DdKo2GFl/cZlPwNKhu+pv/zmw==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\RedisSubscribeDB\\RedisSubscribeDB.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\RedisSubscribeDB\\RedisSubscribeDB.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pxSQ/ZRR7vcJQUxoyUc22dYuCP091OPi0LpDXp7Y5eKvjYn47AhMvUms08AaKhAV3ZcrQUUsdUoe3gg0NYkW5w==",
+  "dgSpecHash": "7DAdtlu/YisQU3HZwL9AFM7XRl1zZ3MPnlU4Fq0Jm6/JTkHwsmNZ4FP0q8cZCwCKiAiMHsBZeuw6qnLvc317+A==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\LockService\\LockService.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\LockService\\LockService.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "D:\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

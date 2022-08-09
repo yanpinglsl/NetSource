@@ -1,0 +1,12 @@
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\bin\Debug\net6.0\YY.Log4net.Kafka.Core.deps.json
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\bin\Debug\net6.0\YY.Log4net.Kafka.Core.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\bin\Debug\net6.0\YY.Log4net.Kafka.Core.pdb
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\obj\Debug\net6.0\YY.Log4net.Kafka.Core.csproj.AssemblyReference.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\obj\Debug\net6.0\YY.Log4net.Kafka.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\obj\Debug\net6.0\YY.Log4net.Kafka.Core.AssemblyInfoInputs.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\obj\Debug\net6.0\YY.Log4net.Kafka.Core.AssemblyInfo.cs
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\obj\Debug\net6.0\YY.Log4net.Kafka.Core.csproj.CoreCompileInputs.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\obj\Debug\net6.0\YY.Log4net.Kafka.Core.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\obj\Debug\net6.0\refint\YY.Log4net.Kafka.Core.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\obj\Debug\net6.0\YY.Log4net.Kafka.Core.pdb
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.Log4net.Kafka.Core\obj\Debug\net6.0\ref\YY.Log4net.Kafka.Core.dll

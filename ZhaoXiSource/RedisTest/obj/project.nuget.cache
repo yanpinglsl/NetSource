@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9jlhABNCD8DYyVsEAZAvUzx2LN/XokJ4G97bPbitH7AT0Ii3yXnF7WijNDjzvn8w+Jgyhgt8pc6pZluYup8YiA==",
+  "dgSpecHash": "xQVQkyVlyjAFAZ1dUyfy/5USDTZSHohJdr39pD9NArZPvAYk1l9DqrjXrLF3QXvUIy05O3yQPRAKWNRztBb2fw==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\RedisTest\\RedisTest.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\RedisTest\\RedisTest.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.cryptography.internal\\2.1.1\\microsoft.aspnetcore.cryptography.internal.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.cryptography.keyderivation\\2.1.1\\microsoft.aspnetcore.cryptography.keyderivation.2.1.1.nupkg.sha512",

@@ -81,7 +81,7 @@ namespace YY.MicroService.ServiceInstance
 
             #region Consul注册
             app.UseHealthCheckMiddleware("/Api/Health/Index");//心跳请求响应
-            app.ApplicationServices.GetService<IConsulRegister>()?.UseConsulRegist();
+            app.ApplicationServices.GetService<IConsulRegister>()?.UseConsulRegist().Wait();
             #endregion
 
             #region 基于LifetTime对象注册Zipkin

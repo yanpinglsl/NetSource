@@ -1,0 +1,2 @@
+2022-08-03 16:07:46,960 [.NET ThreadPool Worker] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2022-08-03 16:32:37,996 [.NET ThreadPool Worker] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gbZwdFbwVYnsRU/4Z4WEcyQJGAY97jDgVo5+mFCmIosMrqFIWsSbmqwmx8zdVrqV5sd0NmUrSd9jdpEpX3Ab8g==",
+  "dgSpecHash": "e+B65LWOQVrK/mCFnXdWy0HXrEKZBrss95PX5LkIauDbNktK90gHZP1divBxwG48ZClyTzkIA6IEU0t3YHs+Gw==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.GatewayCenter\\YY.MicroService.GatewayCenter.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.GatewayCenter\\YY.MicroService.GatewayCenter.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\apache.thrift\\1.0.2\\apache.thrift.1.0.2.nupkg.sha512",
     "D:\\packages\\aspectcore.extensions.reflection\\1.2.0\\aspectcore.extensions.reflection.1.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0asEfMZ3guNtWOO8ECWsOcBMw32yvo/llDr713vK93D/9+JcFDWP/ieXEeASWVV7bi/qMh8C7oIeHQKBNG61ww==",
+  "dgSpecHash": "7EcMOBBuGrl8y5h5JDmkFGSet81bA1NQ+XhH5Bf+Vbr8SzBHY9hNDvV7e+QuI6GtIxSkRS2VoHoqzIP3Zy6AeA==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\IdentytyServerEF\\IdentytyServerEF.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IdentytyServerEF\\IdentytyServerEF.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "D:\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

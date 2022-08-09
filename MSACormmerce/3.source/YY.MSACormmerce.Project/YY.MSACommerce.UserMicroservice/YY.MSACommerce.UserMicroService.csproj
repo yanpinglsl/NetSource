@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.7" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="6.1.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YY.AgileFramework.WebCore\YY.AgileFramework.WebCore.csproj" />
+    <ProjectReference Include="..\YY.MSACommerce.Interface\YY.MSACommerce.Interface.csproj" />
+    <ProjectReference Include="..\YY.MSACommerce.Model\YY.MSACommerce.Model.csproj" />
+    <ProjectReference Include="..\YY.MSACommerce.Service\YY.MSACommerce.Service.csproj" />
+  </ItemGroup>
+
+</Project>

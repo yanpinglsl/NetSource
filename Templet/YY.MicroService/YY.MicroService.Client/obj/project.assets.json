@@ -8480,22 +8480,25 @@
   },
   "packageFolders": {
     "D:\\packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Client\\YY.MicroService.Client.csproj",
+      "projectUniqueName": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Client\\YY.MicroService.Client.csproj",
       "projectName": "YY.MicroService.Client",
-      "projectPath": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Client\\YY.MicroService.Client.csproj",
+      "projectPath": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Client\\YY.MicroService.Client.csproj",
       "packagesPath": "D:\\packages",
-      "outputPath": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Client\\obj\\",
+      "outputPath": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8509,17 +8512,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Framework\\YY.MicroService.Framework.csproj": {
-              "projectPath": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Framework\\YY.MicroService.Framework.csproj"
+            "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Framework\\YY.MicroService.Framework.csproj": {
+              "projectPath": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Framework\\YY.MicroService.Framework.csproj"
             },
-            "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Interface\\YY.MicroService.Interface.csproj": {
-              "projectPath": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Interface\\YY.MicroService.Interface.csproj"
+            "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Interface\\YY.MicroService.Interface.csproj": {
+              "projectPath": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Interface\\YY.MicroService.Interface.csproj"
             },
-            "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Model\\YY.MicroService.Model.csproj": {
-              "projectPath": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Model\\YY.MicroService.Model.csproj"
+            "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Model\\YY.MicroService.Model.csproj": {
+              "projectPath": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Model\\YY.MicroService.Model.csproj"
             },
-            "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Service\\YY.MicroService.Service.csproj": {
-              "projectPath": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Service\\YY.MicroService.Service.csproj"
+            "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Service\\YY.MicroService.Service.csproj": {
+              "projectPath": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Service\\YY.MicroService.Service.csproj"
             }
           }
         }

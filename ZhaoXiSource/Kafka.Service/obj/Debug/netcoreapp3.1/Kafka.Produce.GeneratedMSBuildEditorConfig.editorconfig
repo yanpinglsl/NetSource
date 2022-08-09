@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Kafka.Produce
+build_property.ProjectDir = D:\架构学习\NetSouce\ZhaoXiSource\Kafka.Service\

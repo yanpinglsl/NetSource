@@ -9358,22 +9358,25 @@
   },
   "packageFolders": {
     "D:\\packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.GatewayCenter\\YY.MicroService.GatewayCenter.csproj",
+      "projectUniqueName": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.GatewayCenter\\YY.MicroService.GatewayCenter.csproj",
       "projectName": "YY.MicroService.GatewayCenter",
-      "projectPath": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.GatewayCenter\\YY.MicroService.GatewayCenter.csproj",
+      "projectPath": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.GatewayCenter\\YY.MicroService.GatewayCenter.csproj",
       "packagesPath": "D:\\packages",
-      "outputPath": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.GatewayCenter\\obj\\",
+      "outputPath": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.GatewayCenter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9387,8 +9390,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Framework\\YY.MicroService.Framework.csproj": {
-              "projectPath": "D:\\架构学习\\Source\\Templet\\YY.MicroService\\YY.MicroService.Framework\\YY.MicroService.Framework.csproj"
+            "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Framework\\YY.MicroService.Framework.csproj": {
+              "projectPath": "D:\\架构学习\\NetSouce\\Templet\\YY.MicroService\\YY.MicroService.Framework\\YY.MicroService.Framework.csproj"
             }
           }
         }

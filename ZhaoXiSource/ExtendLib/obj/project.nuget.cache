@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AuVlcTQvk78L0KAs7ziSEHBotstQNYSybLjiW6aHMz+ESWWAZk+XQISo7Kj4yuxEESceU4R7gWt1JcNV6igSYA==",
+  "dgSpecHash": "sPwQuFZfjmozHIv4zeDRGZi8rBwxwmPnKtLbMo74nxLBaoOYCNsoFAmy5xSk77ixfd+q6vcpKGwHGL9uHF/edg==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "D:\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

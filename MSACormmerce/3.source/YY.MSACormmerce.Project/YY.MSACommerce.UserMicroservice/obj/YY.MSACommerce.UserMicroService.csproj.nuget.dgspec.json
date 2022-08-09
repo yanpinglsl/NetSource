@@ -1,0 +1,770 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.UserMicroservice\\YY.MSACommerce.UserMicroService.csproj": {}
+  },
+  "projects": {
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj",
+        "projectName": "YY.AgileFramework.Common",
+        "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj",
+        "projectName": "YY.AgileFramework.Core",
+        "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[1.6.10.6, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NBuilder": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "NConsul": {
+              "target": "Package",
+              "version": "[0.8.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "aliyun-net-sdk-core": {
+              "target": "Package",
+              "version": "[1.5.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WebCore\\YY.AgileFramework.WebCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WebCore\\YY.AgileFramework.WebCore.csproj",
+        "projectName": "YY.AgileFramework.WebCore",
+        "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WebCore\\YY.AgileFramework.WebCore.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WebCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\YY.MSACommerce.Model.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\YY.MSACommerce.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Grpc.Core.Api": {
+              "target": "Package",
+              "version": "[2.47.0, )"
+            },
+            "JWT": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Formatters.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WechatPayCore\\YY.AgileFramework.WechatPayCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WechatPayCore\\YY.AgileFramework.WechatPayCore.csproj",
+        "projectName": "YY.AgileFramework.WechatPayCore",
+        "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WechatPayCore\\YY.AgileFramework.WechatPayCore.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WechatPayCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NBuilder": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.DTOModel\\YY.MSACommerce.DTOModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.DTOModel\\YY.MSACommerce.DTOModel.csproj",
+        "projectName": "YY.MSACommerce.DTOModel",
+        "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.DTOModel\\YY.MSACommerce.DTOModel.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.DTOModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Interface\\YY.MSACommerce.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Interface\\YY.MSACommerce.Interface.csproj",
+        "projectName": "YY.MSACommerce.Interface",
+        "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Interface\\YY.MSACommerce.Interface.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WechatPayCore\\YY.AgileFramework.WechatPayCore.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WechatPayCore\\YY.AgileFramework.WechatPayCore.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.DTOModel\\YY.MSACommerce.DTOModel.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.DTOModel\\YY.MSACommerce.DTOModel.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\YY.MSACommerce.Model.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\YY.MSACommerce.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\YY.MSACommerce.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\YY.MSACommerce.Model.csproj",
+        "projectName": "YY.MSACommerce.Model",
+        "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\YY.MSACommerce.Model.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.DTOModel\\YY.MSACommerce.DTOModel.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.DTOModel\\YY.MSACommerce.DTOModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Service\\YY.MSACommerce.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Service\\YY.MSACommerce.Service.csproj",
+        "projectName": "YY.MSACommerce.Service",
+        "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Service\\YY.MSACommerce.Service.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.DTOModel\\YY.MSACommerce.DTOModel.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.DTOModel\\YY.MSACommerce.DTOModel.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Interface\\YY.MSACommerce.Interface.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Interface\\YY.MSACommerce.Interface.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\YY.MSACommerce.Model.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\YY.MSACommerce.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DotNetCore.CAP": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "DotNetCore.CAP.MySql": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Hei.Captcha": {
+              "target": "Package",
+              "version": "[0.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.UserMicroservice\\YY.MSACommerce.UserMicroService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.UserMicroservice\\YY.MSACommerce.UserMicroService.csproj",
+        "projectName": "YY.MSACommerce.UserMicroService",
+        "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.UserMicroservice\\YY.MSACommerce.UserMicroService.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.UserMicroservice\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WebCore\\YY.AgileFramework.WebCore.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.WebCore\\YY.AgileFramework.WebCore.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Interface\\YY.MSACommerce.Interface.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Interface\\YY.MSACommerce.Interface.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\YY.MSACommerce.Model.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Model\\YY.MSACommerce.Model.csproj"
+              },
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Service\\YY.MSACommerce.Service.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.MSACommerce.Service\\YY.MSACommerce.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\bin\Debug\net6.0\YY.MSACommerce.DTOModel.deps.json
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\bin\Debug\net6.0\YY.MSACommerce.DTOModel.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\bin\Debug\net6.0\YY.MSACommerce.DTOModel.pdb
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\obj\Debug\net6.0\YY.MSACommerce.DTOModel.csproj.AssemblyReference.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\obj\Debug\net6.0\YY.MSACommerce.DTOModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\obj\Debug\net6.0\YY.MSACommerce.DTOModel.AssemblyInfoInputs.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\obj\Debug\net6.0\YY.MSACommerce.DTOModel.AssemblyInfo.cs
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\obj\Debug\net6.0\YY.MSACommerce.DTOModel.csproj.CoreCompileInputs.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\obj\Debug\net6.0\YY.MSACommerce.DTOModel.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\obj\Debug\net6.0\refint\YY.MSACommerce.DTOModel.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\obj\Debug\net6.0\YY.MSACommerce.DTOModel.pdb
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACommerce.DTOModel\obj\Debug\net6.0\ref\YY.MSACommerce.DTOModel.dll

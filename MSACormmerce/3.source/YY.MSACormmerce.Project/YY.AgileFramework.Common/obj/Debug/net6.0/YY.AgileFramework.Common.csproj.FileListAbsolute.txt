@@ -1,0 +1,12 @@
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\bin\Debug\net6.0\YY.AgileFramework.Common.deps.json
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\bin\Debug\net6.0\YY.AgileFramework.Common.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\bin\Debug\net6.0\YY.AgileFramework.Common.pdb
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\obj\Debug\net6.0\YY.AgileFramework.Common.csproj.AssemblyReference.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\obj\Debug\net6.0\YY.AgileFramework.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\obj\Debug\net6.0\YY.AgileFramework.Common.AssemblyInfoInputs.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\obj\Debug\net6.0\YY.AgileFramework.Common.AssemblyInfo.cs
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\obj\Debug\net6.0\YY.AgileFramework.Common.csproj.CoreCompileInputs.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\obj\Debug\net6.0\YY.AgileFramework.Common.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\obj\Debug\net6.0\refint\YY.AgileFramework.Common.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\obj\Debug\net6.0\YY.AgileFramework.Common.pdb
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.Common\obj\Debug\net6.0\ref\YY.AgileFramework.Common.dll

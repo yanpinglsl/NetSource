@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>Svn</SccProjectName>
+    <SccProvider>SubversionScc</SccProvider>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccLocalPath>Svn</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetCore.CAP" Version="6.1.0" />
+    <PackageReference Include="DotNetCore.CAP.MySql" Version="6.1.0" />
+    <PackageReference Include="Hei.Captcha" Version="0.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YY.AgileFramework.Common\YY.AgileFramework.Common.csproj" />
+    <ProjectReference Include="..\YY.AgileFramework.Core\YY.AgileFramework.Core.csproj" />
+    <ProjectReference Include="..\YY.MSACommerce.DTOModel\YY.MSACommerce.DTOModel.csproj" />
+    <ProjectReference Include="..\YY.MSACommerce.Interface\YY.MSACommerce.Interface.csproj" />
+    <ProjectReference Include="..\YY.MSACommerce.Model\YY.MSACommerce.Model.csproj" />
+  </ItemGroup>
+
+</Project>

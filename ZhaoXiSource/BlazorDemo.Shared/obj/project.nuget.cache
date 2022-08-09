@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fS62qJJH8cpauKbK0vd33fqoG9ShyRYTaDTNjdZlURvU0tREe2TM2hYBiiD8fOlCsGgvWiYht5gYWK2pyFjYpA==",
+  "dgSpecHash": "vCV22Du/pM0Im+FfroXUVWNo4NHl3dQe2nKz5IcuqQlwCMmyiveFns2YCsAsFrCod96ZNkNtL21uK/OUfEe42w==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

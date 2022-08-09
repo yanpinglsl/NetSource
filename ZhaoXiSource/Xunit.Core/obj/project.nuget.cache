@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YH610aHoFbm01ajYqg8WCI+cQVe75MIbBNR8ObGjWV/TmQ8WcXvqAJ3U197m5b67Cv+jpN40qJb2H3asK3yZjA==",
+  "dgSpecHash": "Rc7fZDUzseOX/7GkPex+zvY6gnf521mlkttzvQlS+GtepHxccUEIpejL1cL0fc1PrcgEac6wkm0V0P+1ijYxlg==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\Xunit.Core\\XUnit.Core.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\Xunit.Core\\XUnit.Core.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "D:\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

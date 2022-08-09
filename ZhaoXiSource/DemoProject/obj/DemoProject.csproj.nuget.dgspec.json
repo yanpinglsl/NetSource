@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\架构学习\\Source\\ZhaoXiSource\\DemoProject\\DemoProject.csproj": {}
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\DemoProject\\DemoProject.csproj": {}
   },
   "projects": {
-    "D:\\架构学习\\Source\\ZhaoXiSource\\Common.Util\\Common.Util.csproj": {
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\Common.Util\\Common.Util.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\Common.Util\\Common.Util.csproj",
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\Common.Util\\Common.Util.csproj",
         "projectName": "Common.Util",
-        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\Common.Util\\Common.Util.csproj",
+        "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\Common.Util\\Common.Util.csproj",
         "packagesPath": "D:\\packages",
-        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\Common.Util\\obj\\",
+        "outputPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\Common.Util\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,20 +63,22 @@
         }
       }
     },
-    "D:\\架构学习\\Source\\ZhaoXiSource\\DemoProject\\DemoProject.csproj": {
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\DemoProject\\DemoProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\DemoProject\\DemoProject.csproj",
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\DemoProject\\DemoProject.csproj",
         "projectName": "DemoProject",
-        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\DemoProject\\DemoProject.csproj",
+        "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\DemoProject\\DemoProject.csproj",
         "packagesPath": "D:\\packages",
-        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\DemoProject\\obj\\",
+        "outputPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\DemoProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,17 +92,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\架构学习\\Source\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj": {
-                "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj"
+              "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj"
               },
-              "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj": {
-                "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj"
+              "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj"
               },
-              "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestServiceLib\\IOCTestServiceLib.csproj": {
-                "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestServiceLib\\IOCTestServiceLib.csproj"
+              "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestServiceLib\\IOCTestServiceLib.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestServiceLib\\IOCTestServiceLib.csproj"
               },
-              "D:\\架构学习\\Source\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj": {
-                "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj"
+              "D:\\架构学习\\NetSouce\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj"
               }
             }
           }
@@ -160,20 +164,22 @@
         }
       }
     },
-    "D:\\架构学习\\Source\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj": {
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj",
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj",
         "projectName": "ExtendLib",
-        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj",
+        "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ExtendLib\\ExtendLib.csproj",
         "packagesPath": "D:\\packages",
-        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\ExtendLib\\obj\\",
+        "outputPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ExtendLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -275,20 +281,22 @@
         }
       }
     },
-    "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj": {
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj",
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj",
         "projectName": "IOCTestInterfaceLib",
-        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj",
+        "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj",
         "packagesPath": "D:\\packages",
-        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestLib\\obj\\",
+        "outputPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -332,20 +340,22 @@
         }
       }
     },
-    "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestServiceLib\\IOCTestServiceLib.csproj": {
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestServiceLib\\IOCTestServiceLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestServiceLib\\IOCTestServiceLib.csproj",
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestServiceLib\\IOCTestServiceLib.csproj",
         "projectName": "IOCTestServiceLib",
-        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestServiceLib\\IOCTestServiceLib.csproj",
+        "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestServiceLib\\IOCTestServiceLib.csproj",
         "packagesPath": "D:\\packages",
-        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestServiceLib\\obj\\",
+        "outputPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestServiceLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -359,8 +369,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj": {
-                "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj"
+              "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj"
               }
             }
           }
@@ -393,20 +403,22 @@
         }
       }
     },
-    "D:\\架构学习\\Source\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj": {
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj",
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj",
         "projectName": "JWT.AuthenticationCenter",
-        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj",
+        "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj",
         "packagesPath": "D:\\packages",
-        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\JWT.AuthenticationCenter\\obj\\",
+        "outputPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\JWT.AuthenticationCenter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -420,8 +432,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\架构学习\\Source\\ZhaoXiSource\\Common.Util\\Common.Util.csproj": {
-                "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\Common.Util\\Common.Util.csproj"
+              "D:\\架构学习\\NetSouce\\ZhaoXiSource\\Common.Util\\Common.Util.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\Common.Util\\Common.Util.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c7EoDP26y+SObCC9JgYAOxN2cqJxmE+TWoJimovHq14EbC4iL0uneSAXEfxIj8sxemWWTyAmOhewO5Ef1LJnbw==",
+  "dgSpecHash": "Vq8T1Eb4iH1N/I0rBLvC3tI8uDXrVjqsjWgw5cEnIhA5WYOnTPYpehQxnF5YhjqYSH3TVobud6fW8jZ4/Vk0ow==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\BlazorDemo.Server\\BlazorDemo.Server.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\BlazorDemo.Server\\BlazorDemo.Server.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "D:\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",

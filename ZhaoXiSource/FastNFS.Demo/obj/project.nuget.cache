@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "71YMwNUMlZjhyeW5WwRlq7Tgd5KtTpZBqA4bz/zdMA8Z0M29Z8a3A6MnnGz+E+5q2WIDm39eGdJklQRZwp3U8w==",
+  "dgSpecHash": "/Bknqjw9qwtwL+SN3SCvEQ7UdRE5BTfox2xvhTghiQurMtBSkF+0TXsJa2i9yCN/kjtxA9VgOAtnjcN8hFN1Xg==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\FastNFS.Demo\\FastNFS.Demo.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\FastNFS.Demo\\FastNFS.Demo.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\fastdfsnetcore\\1.2.7\\fastdfsnetcore.1.2.7.nupkg.sha512",
     "D:\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",

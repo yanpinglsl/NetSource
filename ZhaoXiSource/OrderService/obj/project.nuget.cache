@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nr+PKKo94ozThn0CJILvU1cIpdvSVaeJVVMUsAwrhcW9RBDdg0mod5WjEeC8ZaM2RPudDXncIIkFFeJYQ21vhA==",
+  "dgSpecHash": "Dz9WhDAp0cgSBytOu1MED/JRNAB2t8YbtYQxVBeQ1lwIAne2eJBQ7nikuhTh6ifHUYyuQbrd1faVVhMfTOW3SA==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\OrderService\\OrderService.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\OrderService\\OrderService.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
     "D:\\packages\\dotnetcore.cap\\5.1.3\\dotnetcore.cap.5.1.3.nupkg.sha512",

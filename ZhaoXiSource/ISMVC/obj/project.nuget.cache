@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cwM45UrrnFa3Danj+JN7hvg6/lKwnO9YuYjz6Kyy4Fd2/V7ZvK3EdTh6jgQgnjkd5uPqJh0r18uWMHY/Tbf4Lw==",
+  "dgSpecHash": "m15u6GTttfqrI6w5ELmHKEvmK3XpkE6I07lD5lC93Z3nXlPI81+N4Q1R4leisiXkkN3gRuf78bWk0Xjd1Qsitw==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\ISMVC\\ISMVC.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ISMVC\\ISMVC.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.11\\microsoft.aspnetcore.authentication.openidconnect.5.0.11.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\架构学习\\Source\\ZhaoXiSource\\AOPFilterApp\\AOPFilterApp.csproj": {}
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\AOPFilterApp\\AOPFilterApp.csproj": {}
   },
   "projects": {
-    "D:\\架构学习\\Source\\ZhaoXiSource\\AOPFilterApp\\AOPFilterApp.csproj": {
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\AOPFilterApp\\AOPFilterApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\AOPFilterApp\\AOPFilterApp.csproj",
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\AOPFilterApp\\AOPFilterApp.csproj",
         "projectName": "AOPFilterApp",
-        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\AOPFilterApp\\AOPFilterApp.csproj",
+        "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\AOPFilterApp\\AOPFilterApp.csproj",
         "packagesPath": "D:\\packages",
-        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\AOPFilterApp\\obj\\",
+        "outputPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\AOPFilterApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

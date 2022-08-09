@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dTgeWAn/pRsfeYZQKFWFY5cbFPrfrJ5s49xkevxAvWG5gkoyIz67Hdt5oL+CE9ZBiRHW0m8gQ2E+32J7hCrkrA==",
+  "dgSpecHash": "j0FsxBX+vRGIF+Fbhv3Q2N3lfn56XZ5QiwqyhTOnSioOaFOY5GKpwBKo/dVe33INeqtFpqZjnozg2XHYyHmhQg==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\PaymentService\\PaymentService.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\PaymentService\\PaymentService.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
     "D:\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

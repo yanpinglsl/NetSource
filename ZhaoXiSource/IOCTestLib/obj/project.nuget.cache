@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AJTmKgrsatVT80BE4dOKHSk8MWElHynLrqtd/gnhbJHol6+s9pyBKsly8/cvQfJFraOcHDCc4wjbh5xQE1ICnw==",
+  "dgSpecHash": "68237fdjHSw6Eq2RVz9C4KimFMiSfSm2wwLBwtC4vPlVkZlV31AqQbc31/2pUcmCWch3USn306gVow6gRssp5A==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\IOCTestLib\\IOCTestInterfaceLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

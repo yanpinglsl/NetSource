@@ -1,0 +1,12 @@
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\bin\Release\net5.0\Zhaoxi.MSACommerce.DTOModel.deps.json
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\bin\Release\net5.0\Zhaoxi.MSACommerce.DTOModel.dll
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\bin\Release\net5.0\ref\Zhaoxi.MSACommerce.DTOModel.dll
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\bin\Release\net5.0\Zhaoxi.MSACommerce.DTOModel.pdb
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\obj\Release\net5.0\Zhaoxi.MSACommerce.DTOModel.csprojAssemblyReference.cache
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\obj\Release\net5.0\Zhaoxi.MSACommerce.DTOModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\obj\Release\net5.0\Zhaoxi.MSACommerce.DTOModel.AssemblyInfoInputs.cache
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\obj\Release\net5.0\Zhaoxi.MSACommerce.DTOModel.AssemblyInfo.cs
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\obj\Release\net5.0\Zhaoxi.MSACommerce.DTOModel.csproj.CoreCompileInputs.cache
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\obj\Release\net5.0\Zhaoxi.MSACommerce.DTOModel.dll
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\obj\Release\net5.0\ref\Zhaoxi.MSACommerce.DTOModel.dll
+D:\Project\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.DTOModel\obj\Release\net5.0\Zhaoxi.MSACommerce.DTOModel.pdb

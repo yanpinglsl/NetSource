@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JdF6fIPwtqSbk1+Ef9ku0+dCe+Gj4iE2DsTJABAKuWJT2p40Bik21Uxybvp1wpdw55L7nLN1urM2K7H7+rjbRA==",
+  "dgSpecHash": "Or5+z5cLwEhUA3tsjuo4LHz9TPlIf1JF6Eqo99yJIlhIbHjm2Tr+W+BaZ/GEXFC4r6PaI0dWYg6Kw0UYgDXYzQ==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\Server\\Server.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\Server\\Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

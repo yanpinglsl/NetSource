@@ -1,0 +1,12 @@
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\obj\Debug\net6.0\YY.AgileFramework.WechatPayCore.csproj.AssemblyReference.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\obj\Debug\net6.0\YY.AgileFramework.WechatPayCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\obj\Debug\net6.0\YY.AgileFramework.WechatPayCore.AssemblyInfoInputs.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\obj\Debug\net6.0\YY.AgileFramework.WechatPayCore.AssemblyInfo.cs
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\obj\Debug\net6.0\YY.AgileFramework.WechatPayCore.csproj.CoreCompileInputs.cache
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\bin\Debug\net6.0\YY.AgileFramework.WechatPayCore.deps.json
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\bin\Debug\net6.0\YY.AgileFramework.WechatPayCore.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\bin\Debug\net6.0\YY.AgileFramework.WechatPayCore.pdb
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\obj\Debug\net6.0\YY.AgileFramework.WechatPayCore.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\obj\Debug\net6.0\refint\YY.AgileFramework.WechatPayCore.dll
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\obj\Debug\net6.0\YY.AgileFramework.WechatPayCore.pdb
+D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.AgileFramework.WechatPayCore\obj\Debug\net6.0\ref\YY.AgileFramework.WechatPayCore.dll

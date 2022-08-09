@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b8lNuA7PqOGtl0WMRuGtkapOlKtHS1bc1LMBCX2d2Ow=",
+  "Source": "YY.MSACommerce.UserMicroService",
+  "BasePath": "_content/YY.MSACommerce.UserMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Asyc1ugO/DwH0IbmpW4sYkn3E1uE9gTnz6LkUyEtbB6JNoGuHL2lW7UTJwV6ZSwzbwpcDcSFzoh4bpWTtC1DVg==",
+  "dgSpecHash": "QGA4p0mhF6rd7u3oFQz2hi8z6H8gv45FB1pI9zZGzN8wYDBsZwMAM04AhzDcJ0HTjOEOYWvSyvgwBafiu3U+Vw==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\StackExchange.Redis\\StackExchangeRedis.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\StackExchange.Redis\\StackExchangeRedis.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",

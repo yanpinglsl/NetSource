@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eunxHKhhPAYqAqLNTVNCMiQ/Oa3HqOXV+UKNafOZrDujW8CuP+aNLQoyoUZ3ewmPIBzjmPh2FESjnTYYCOREMQ==",
+  "dgSpecHash": "22/ptt8934lDTY3Y1ont7fiu+Fb+Xy1WdMp1Tu/XKnYvuOUF73lMr9eAoAsvab2tZ0vh11m3InxbsQEDq1niOQ==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\BlazorDemo.Client\\BlazorDemo.Client.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\BlazorDemo.Client\\BlazorDemo.Client.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.aspnetcore.authorization\\5.0.0\\microsoft.aspnetcore.authorization.5.0.0.nupkg.sha512",
     "D:\\packages\\microsoft.aspnetcore.components\\5.0.0\\microsoft.aspnetcore.components.5.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mb+S3pJDcN8yqKu5JIYv5CnrEPq8kQAwcPG5shnASBuYSjp86021PNkVgtTaRD+YQ9yCriJxSWsB6ttHG6Qr4Q==",
+  "dgSpecHash": "GCTLEjYEgEQoDdJ4qbR8QwPXFgaGhI4vD2pX7KqiOy0Ad1Cz2PaOHhXru5GNP+myKhD4my9ZoJF/zdlBFj3X/A==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\MongoDBCommon\\MongoDBCommon.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\MongoDBCommon\\MongoDBCommon.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "D:\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

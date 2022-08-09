@@ -1,0 +1,601 @@
+2022-08-08 09:07:14,314 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:8000
+2022-08-08 09:07:14,334 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:07:14,336 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:07:14,338 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:07:33,966 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:8000
+2022-08-08 09:07:33,988 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:07:33,991 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:07:33,997 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:08:05,390 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOR9G4ONAA:00000004, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:08:05,408 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOR9G4ONAA:00000004, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 09:08:05,416 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOR9G4ONAA:00000004, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:08:05,525 [22] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOR9G4ONAA:00000004, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/swagger/v1/swagger.json
+2022-08-08 09:08:07,267 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOR9G4ONAA:00000005, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:08:07,269 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOR9G4ONAA:00000005, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:08:07,272 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOR9G4ONAA:00000005, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:08:07,312 [22] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOR9G4ONAA:00000005, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:7200/swagger/v1/swagger.json
+2022-08-08 09:08:10,654 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOR9G4ONAA:00000006, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:08:10,658 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOR9G4ONAA:00000006, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 09:08:10,661 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOR9G4ONAA:00000006, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:08:10,669 [7] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOR9G4ONAA:00000006, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/swagger/v1/swagger.json
+2022-08-08 09:08:20,288 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOR9G4ONAA:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 09:08:20,291 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOR9G4ONAA:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 09:08:20,295 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOR9G4ONAA:00000007, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 09:08:33,199 [7] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOR9G4ONAA:00000007, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/api/auth/accredit?username=yp&password=123456
+2022-08-08 09:08:42,797 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOR9G4ONAA:00000008, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:08:42,801 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOR9G4ONAA:00000008, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:08:42,806 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOR9G4ONAA:00000008, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:08:42,819 [26] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOR9G4ONAA:00000008, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:7200/swagger/v1/swagger.json
+2022-08-08 09:09:02,181 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOR9G4ONAA:00000009, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/user/{url}
+2022-08-08 09:09:02,187 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOR9G4ONAA:00000009, previousRequestId: no previous request id, message: No authentication needed for /api/user/getwithauthorize
+2022-08-08 09:09:02,190 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOR9G4ONAA:00000009, previousRequestId: no previous request id, message: /api/user/{url} route does not require user to be authorized
+2022-08-08 09:09:02,413 [26] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOR9G4ONAA:00000009, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:7200/api/user/getwithauthorize
+2022-08-08 09:09:14,461 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOR9G4ONAA:0000000A, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:09:14,464 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOR9G4ONAA:0000000A, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 09:09:14,467 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOR9G4ONAA:0000000A, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:09:14,514 [26] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOR9G4ONAA:0000000A, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/swagger/v1/swagger.json
+2022-08-08 09:11:28,206 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:8000
+2022-08-08 09:11:28,226 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:11:28,228 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:11:28,230 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:12:01,381 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORBM1M0MU:00000004, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:12:01,395 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORBM1M0MU:00000004, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 09:12:01,403 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORBM1M0MU:00000004, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:12:03,789 [15] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORBM1M0MU:00000004, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/swagger/v1/swagger.json
+2022-08-08 09:12:06,444 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORBM1M0MU:00000005, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:12:06,447 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORBM1M0MU:00000005, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:12:06,451 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORBM1M0MU:00000005, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:12:08,475 [15] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORBM1M0MU:00000005, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:7200/swagger/v1/swagger.json
+2022-08-08 09:12:11,486 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORBM1M0MU:00000006, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:12:11,488 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORBM1M0MU:00000006, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 09:12:11,491 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORBM1M0MU:00000006, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:12:11,500 [22] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORBM1M0MU:00000006, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/swagger/v1/swagger.json
+2022-08-08 09:12:19,917 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORBM1M0MU:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 09:12:19,920 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORBM1M0MU:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 09:12:19,921 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORBM1M0MU:00000007, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 09:12:24,003 [22] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORBM1M0MU:00000007, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/api/auth/accredit?username=yp&password=123456
+2022-08-08 09:14:29,631 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8000
+2022-08-08 09:14:29,639 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:14:29,640 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:14:29,640 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:14:50,323 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORDH9EI2V:00000004, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:14:50,328 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORDH9EI2V:00000004, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 09:14:50,329 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORDH9EI2V:00000004, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:14:58,540 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJORDH9EI2V:00000004, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:19000)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/auth/swagger/v1/swagger.json, request method: GET
+2022-08-08 09:15:16,798 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORDH9EI2V:00000005, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:15:16,799 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORDH9EI2V:00000005, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:15:16,799 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORDH9EI2V:00000005, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:15:24,842 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJORDH9EI2V:00000005, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:17200)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/user/swagger/v1/swagger.json, request method: GET
+2022-08-08 09:16:53,051 [14] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2022-08-08 09:16:56,778 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8000
+2022-08-08 09:16:56,787 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:16:56,787 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:16:56,788 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:17:02,573 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOREOCP3DQ:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:17:02,577 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOREOCP3DQ:00000003, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:17:02,578 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOREOCP3DQ:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:17:10,789 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJOREOCP3DQ:00000003, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:17200)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/user/swagger/v1/swagger.json, request method: GET
+2022-08-08 09:17:28,539 [15] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2022-08-08 09:17:48,117 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:8000
+2022-08-08 09:17:48,196 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:17:48,198 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:17:48,199 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:17:55,367 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORF79JLP0:00000004, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:17:55,381 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORF79JLP0:00000004, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 09:17:55,390 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORF79JLP0:00000004, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:17:57,702 [.NET ThreadPool Worker] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORF79JLP0:00000004, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/swagger/v1/swagger.json
+2022-08-08 09:18:00,169 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORF79JLP0:00000005, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:18:00,172 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORF79JLP0:00000005, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:18:00,177 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORF79JLP0:00000005, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:18:02,205 [7] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORF79JLP0:00000005, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:7200/swagger/v1/swagger.json
+2022-08-08 09:19:03,215 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://127.0.0.1:8000
+2022-08-08 09:19:03,223 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:19:03,223 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:19:03,223 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:19:07,733 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORFUQILVQ:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:19:07,737 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORFUQILVQ:00000003, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:19:07,739 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORFUQILVQ:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:19:15,952 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJORFUQILVQ:00000003, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:7200)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/user/swagger/v1/swagger.json, request method: GET
+2022-08-08 09:22:53,565 [14] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2022-08-08 09:22:55,904 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://127.0.0.1:8000
+2022-08-08 09:22:55,912 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:22:55,913 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:22:55,913 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:22:59,054 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORI3O3NSV:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:22:59,059 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORI3O3NSV:00000003, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:22:59,061 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORI3O3NSV:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:23:07,276 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJORI3O3NSV:00000003, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:7200)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/user/swagger/v1/swagger.json, request method: GET
+2022-08-08 09:23:11,210 [16] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2022-08-08 09:23:13,500 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://127.0.0.1:8000
+2022-08-08 09:23:13,507 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:23:13,508 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:23:13,508 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:26:45,914 [3] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2022-08-08 09:26:49,050 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8000
+2022-08-08 09:26:49,060 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:26:49,061 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:26:49,061 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:26:53,158 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORK9H76B4:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:26:53,162 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORK9H76B4:00000003, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:26:53,164 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORK9H76B4:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:27:01,395 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJORK9H76B4:00000003, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:7200)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/user/swagger/v1/swagger.json, request method: GET
+2022-08-08 09:27:03,929 [16] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2022-08-08 09:32:05,368 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8000
+2022-08-08 09:32:05,376 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:32:05,377 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:32:05,377 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:32:09,228 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORN7B277K:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:32:09,231 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORN7B277K:00000003, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:32:09,233 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORN7B277K:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:32:11,490 [11] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORN7B277K:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:7200/swagger/v1/swagger.json
+2022-08-08 09:32:31,433 [15] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2022-08-08 09:44:46,738 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8000
+2022-08-08 09:44:46,747 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:44:46,747 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:44:46,747 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:44:52,214 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORUB3AJTE:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:44:52,218 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORUB3AJTE:00000003, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:44:52,220 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORUB3AJTE:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:44:54,468 [12] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORUB3AJTE:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:17200/swagger/v1/swagger.json
+2022-08-08 09:44:59,555 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORUB3AJTE:00000004, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:44:59,556 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORUB3AJTE:00000004, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 09:44:59,556 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORUB3AJTE:00000004, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:45:01,631 [11] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORUB3AJTE:00000004, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:19000/swagger/v1/swagger.json
+2022-08-08 09:45:11,128 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORUB3AJTE:00000005, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 09:45:11,129 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORUB3AJTE:00000005, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 09:45:11,129 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORUB3AJTE:00000005, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 09:45:14,293 [12] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORUB3AJTE:00000005, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:19000/api/auth/accredit?username=yp&password=123456
+2022-08-08 09:45:21,608 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORUB3AJTE:00000006, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:45:21,609 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORUB3AJTE:00000006, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 09:45:21,610 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORUB3AJTE:00000006, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:45:21,673 [17] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORUB3AJTE:00000006, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:7200/swagger/v1/swagger.json
+2022-08-08 09:45:31,020 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORUB3AJTE:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/user/{url}
+2022-08-08 09:45:31,021 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORUB3AJTE:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/user/getwithauthorize
+2022-08-08 09:45:31,021 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORUB3AJTE:00000007, previousRequestId: no previous request id, message: /api/user/{url} route does not require user to be authorized
+2022-08-08 09:45:33,248 [12] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORUB3AJTE:00000007, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:17200/api/user/getwithauthorize
+2022-08-08 09:46:06,391 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORUB3AJTE:00000008, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:46:06,392 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORUB3AJTE:00000008, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 09:46:06,392 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORUB3AJTE:00000008, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:46:06,399 [3] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORUB3AJTE:00000008, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:19000/swagger/v1/swagger.json
+2022-08-08 09:46:10,108 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORUB3AJTE:00000009, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 09:46:10,109 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORUB3AJTE:00000009, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 09:46:10,109 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORUB3AJTE:00000009, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 09:46:14,163 [27] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORUB3AJTE:00000009, previousRequestId: no previous request id, message: 500 (Internal Server Error) status code, request uri: http://localhost:19000/api/auth/accredit?username=yp&password=123456
+2022-08-08 09:47:34,873 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORUB3AJTE:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:47:34,874 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORUB3AJTE:0000000B, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 09:47:34,874 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORUB3AJTE:0000000B, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:47:36,890 [30] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORUB3AJTE:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:19000/swagger/v1/swagger.json
+2022-08-08 09:47:45,434 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJORUB3AJTE:0000000C, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 09:47:45,435 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJORUB3AJTE:0000000C, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 09:47:45,436 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJORUB3AJTE:0000000C, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 09:47:51,471 [33] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJORUB3AJTE:0000000C, previousRequestId: no previous request id, message: 500 (Internal Server Error) status code, request uri: http://localhost:19000/api/auth/accredit?username=yp&password=123456
+2022-08-08 09:50:58,297 [35] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2022-08-08 09:52:04,403 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8000
+2022-08-08 09:52:04,412 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 09:52:04,413 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 09:52:04,414 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 09:52:16,442 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRGS:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 09:52:16,446 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRGS:00000003, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 09:52:16,449 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRGS:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 09:52:18,690 [12] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRGS:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:19000/swagger/v1/swagger.json
+2022-08-08 09:52:26,526 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRGS:00000004, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 09:52:26,526 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRGS:00000004, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 09:52:26,527 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRGS:00000004, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 09:52:29,590 [11] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRGS:00000004, previousRequestId: no previous request id, message: 500 (Internal Server Error) status code, request uri: http://localhost:19000/api/auth/accredit?username=yp&password=123456
+2022-08-08 09:52:40,375 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRGS:00000005, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 09:52:40,376 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRGS:00000005, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 09:52:40,376 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRGS:00000005, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 09:52:41,425 [11] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRGS:00000005, previousRequestId: no previous request id, message: 500 (Internal Server Error) status code, request uri: http://localhost:9000/api/auth/accredit?username=yp&password=123456
+2022-08-08 09:52:53,564 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRGS:00000006, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 09:52:53,565 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRGS:00000006, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 09:52:53,565 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRGS:00000006, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 09:52:54,585 [15] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRGS:00000006, previousRequestId: no previous request id, message: 500 (Internal Server Error) status code, request uri: http://localhost:19000/api/auth/accredit?username=yp&password=123456
+2022-08-08 10:01:10,779 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRGU:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:01:10,780 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRGU:00000003, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 10:01:10,780 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRGU:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:01:12,855 [23] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRGU:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/swagger/v1/swagger.json
+2022-08-08 10:01:20,722 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRGU:00000004, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 10:01:20,722 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRGU:00000004, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 10:01:20,724 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRGU:00000004, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 10:01:25,993 [23] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRGU:00000004, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/api/auth/accredit?username=yp&password=123456
+2022-08-08 10:02:10,483 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRGU:00000005, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 10:02:10,483 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRGU:00000005, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 10:02:10,484 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRGU:00000005, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 10:02:12,586 [25] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRGU:00000005, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:19000/api/auth/accredit?username=yp&password=123456
+2022-08-08 10:04:48,046 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRH0:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:04:48,046 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRH0:00000003, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 10:04:48,047 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRH0:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:04:50,117 [40] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRH0:00000003, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:19000/swagger/v1/swagger.json
+2022-08-08 10:05:16,385 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRH0:00000004, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 10:05:16,386 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRH0:00000004, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 10:05:16,387 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRH0:00000004, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 10:05:20,615 [38] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRH0:00000004, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/api/auth/accredit?username=yp&password=123456
+2022-08-08 10:06:32,001 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRH0:00000005, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:06:32,001 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRH0:00000005, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 10:06:32,002 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRH0:00000005, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:06:34,093 [38] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRH0:00000005, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:17200/swagger/v1/swagger.json
+2022-08-08 10:06:40,964 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRH0:00000006, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/user/{url}
+2022-08-08 10:06:40,964 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRH0:00000006, previousRequestId: no previous request id, message: No authentication needed for /api/user/getwithauthorize
+2022-08-08 10:06:40,965 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRH0:00000006, previousRequestId: no previous request id, message: /api/user/{url} route does not require user to be authorized
+2022-08-08 10:06:43,020 [38] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRH0:00000006, previousRequestId: no previous request id, message: 401 (Unauthorized) status code, request uri: http://localhost:17200/api/user/getwithauthorize
+2022-08-08 10:07:02,777 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRH0:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/user/{url}
+2022-08-08 10:07:02,777 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRH0:00000007, previousRequestId: no previous request id, message: No authentication needed for /api/user/getwithauthorize
+2022-08-08 10:07:02,778 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRH0:00000007, previousRequestId: no previous request id, message: /api/user/{url} route does not require user to be authorized
+2022-08-08 10:07:02,897 [45] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRH0:00000007, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:7200/api/user/getwithauthorize
+2022-08-08 10:07:47,372 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRH0:00000009, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:07:47,373 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRH0:00000009, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 10:07:47,373 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRH0:00000009, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:07:49,451 [54] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRH0:00000009, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:7200/swagger/v1/swagger.json
+2022-08-08 10:07:53,302 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRH0:0000000A, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:07:53,302 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRH0:0000000A, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 10:07:53,303 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRH0:0000000A, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:07:55,370 [57] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRH0:0000000A, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/swagger/v1/swagger.json
+2022-08-08 10:08:01,745 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRH0:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/auth/{url}
+2022-08-08 10:08:01,746 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRH0:0000000B, previousRequestId: no previous request id, message: No authentication needed for /api/auth/accredit
+2022-08-08 10:08:01,746 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRH0:0000000B, previousRequestId: no previous request id, message: /api/auth/{url} route does not require user to be authorized
+2022-08-08 10:08:05,926 [54] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRH0:0000000B, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:9000/api/auth/accredit?username=yp&password=123456
+2022-08-08 10:08:14,735 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRH0:0000000C, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:08:14,736 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRH0:0000000C, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 10:08:14,737 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRH0:0000000C, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:08:14,747 [59] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRH0:0000000C, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:7200/swagger/v1/swagger.json
+2022-08-08 10:08:29,338 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOS2FGGRH0:0000000D, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/user/{url}
+2022-08-08 10:08:29,339 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOS2FGGRH0:0000000D, previousRequestId: no previous request id, message: No authentication needed for /api/user/getwithauthorize
+2022-08-08 10:08:29,340 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOS2FGGRH0:0000000D, previousRequestId: no previous request id, message: /api/user/{url} route does not require user to be authorized
+2022-08-08 10:08:31,359 [61] INFO  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMJOS2FGGRH0:0000000D, previousRequestId: no previous request id, message: 200 (OK) status code, request uri: http://localhost:7200/api/user/getwithauthorize
+2022-08-08 10:12:08,311 [58] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2022-08-08 10:13:00,185 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8000
+2022-08-08 10:13:00,193 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 10:13:00,194 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 10:13:00,194 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 10:13:02,194 [12] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2022-08-08 10:13:09,866 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:8000
+2022-08-08 10:13:09,876 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 10:13:09,877 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 10:13:09,878 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 10:13:11,327 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOSE5FPDHR:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:13:11,331 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOSE5FPDHR:00000003, previousRequestId: no previous request id, message: No authentication needed for /user/swagger/v1/swagger.json
+2022-08-08 10:13:11,333 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOSE5FPDHR:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:13:17,560 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJOSE5FPDHR:00000003, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:17200)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/user/swagger/v1/swagger.json, request method: GET
+2022-08-08 10:13:22,028 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOSE5FPDHR:00000005, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:13:22,028 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOSE5FPDHR:00000005, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 10:13:22,029 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOSE5FPDHR:00000005, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:13:28,053 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJOSE5FPDHR:00000005, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:19000)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/auth/swagger/v1/swagger.json, request method: GET
+2022-08-08 10:17:01,354 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOSE5FPDHT:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:17:01,355 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOSE5FPDHT:00000003, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 10:17:01,356 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOSE5FPDHT:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:17:07,383 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJOSE5FPDHT:00000003, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:9000)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/auth/swagger/v1/swagger.json, request method: GET
+2022-08-08 10:17:24,776 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOSE5FPDHT:00000005, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:17:24,777 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOSE5FPDHT:00000005, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 10:17:24,777 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOSE5FPDHT:00000005, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:17:26,795 [23] ERROR Ocelot.Errors.Middleware.ExceptionHandlerMiddleware - requestId: 0HMJOSE5FPDHT:00000005, previousRequestId: no previous request id, message: Exception caught in global error handler, exception message: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index'), exception stack:    at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Ocelot.LoadBalancer.LoadBalancers.RoundRobin.Lease(HttpContext httpContext)
+   at Ocelot.LoadBalancer.Middleware.LoadBalancingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamPathManipulation.Middleware.ClaimsToDownstreamPathMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.QueryStrings.Middleware.ClaimsToQueryStringMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.ClaimsToHeadersMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authorization.Middleware.AuthorizationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Claims.Middleware.ClaimsToClaimsMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authentication.Middleware.AuthenticationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RequestId.Middleware.RequestIdMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Request.Middleware.DownstreamRequestInitialiserMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.HttpHeadersTransformationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Security.Middleware.SecurityMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Fire(HttpContext httpContext, RequestDelegate next)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Responder.Middleware.ResponderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Errors.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext httpContext) RequestId: 0HMJOSE5FPDHT:00000005, exception: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Ocelot.LoadBalancer.LoadBalancers.RoundRobin.Lease(HttpContext httpContext)
+   at Ocelot.LoadBalancer.Middleware.LoadBalancingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamPathManipulation.Middleware.ClaimsToDownstreamPathMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.QueryStrings.Middleware.ClaimsToQueryStringMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.ClaimsToHeadersMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authorization.Middleware.AuthorizationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Claims.Middleware.ClaimsToClaimsMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authentication.Middleware.AuthenticationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RequestId.Middleware.RequestIdMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Request.Middleware.DownstreamRequestInitialiserMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.HttpHeadersTransformationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Security.Middleware.SecurityMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Fire(HttpContext httpContext, RequestDelegate next)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Responder.Middleware.ResponderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Errors.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext httpContext)
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Ocelot.LoadBalancer.LoadBalancers.RoundRobin.Lease(HttpContext httpContext)
+   at Ocelot.LoadBalancer.Middleware.LoadBalancingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamPathManipulation.Middleware.ClaimsToDownstreamPathMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.QueryStrings.Middleware.ClaimsToQueryStringMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.ClaimsToHeadersMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authorization.Middleware.AuthorizationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Claims.Middleware.ClaimsToClaimsMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authentication.Middleware.AuthenticationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RequestId.Middleware.RequestIdMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Request.Middleware.DownstreamRequestInitialiserMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.HttpHeadersTransformationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Security.Middleware.SecurityMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Fire(HttpContext httpContext, RequestDelegate next)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Responder.Middleware.ResponderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Errors.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext httpContext)
+2022-08-08 10:17:31,659 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOSE5FPDHT:00000007, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:17:31,660 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOSE5FPDHT:00000007, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 10:17:31,661 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOSE5FPDHT:00000007, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:17:31,666 [30] ERROR Ocelot.Errors.Middleware.ExceptionHandlerMiddleware - requestId: 0HMJOSE5FPDHT:00000007, previousRequestId: no previous request id, message: Exception caught in global error handler, exception message: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index'), exception stack:    at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Ocelot.LoadBalancer.LoadBalancers.RoundRobin.Lease(HttpContext httpContext)
+   at Ocelot.LoadBalancer.Middleware.LoadBalancingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamPathManipulation.Middleware.ClaimsToDownstreamPathMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.QueryStrings.Middleware.ClaimsToQueryStringMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.ClaimsToHeadersMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authorization.Middleware.AuthorizationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Claims.Middleware.ClaimsToClaimsMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authentication.Middleware.AuthenticationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RequestId.Middleware.RequestIdMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Request.Middleware.DownstreamRequestInitialiserMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.HttpHeadersTransformationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Security.Middleware.SecurityMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Fire(HttpContext httpContext, RequestDelegate next)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Responder.Middleware.ResponderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Errors.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext httpContext) RequestId: 0HMJOSE5FPDHT:00000007, exception: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Ocelot.LoadBalancer.LoadBalancers.RoundRobin.Lease(HttpContext httpContext)
+   at Ocelot.LoadBalancer.Middleware.LoadBalancingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamPathManipulation.Middleware.ClaimsToDownstreamPathMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.QueryStrings.Middleware.ClaimsToQueryStringMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.ClaimsToHeadersMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authorization.Middleware.AuthorizationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Claims.Middleware.ClaimsToClaimsMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authentication.Middleware.AuthenticationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RequestId.Middleware.RequestIdMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Request.Middleware.DownstreamRequestInitialiserMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.HttpHeadersTransformationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Security.Middleware.SecurityMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Fire(HttpContext httpContext, RequestDelegate next)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Responder.Middleware.ResponderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Errors.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext httpContext)
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Ocelot.LoadBalancer.LoadBalancers.RoundRobin.Lease(HttpContext httpContext)
+   at Ocelot.LoadBalancer.Middleware.LoadBalancingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamPathManipulation.Middleware.ClaimsToDownstreamPathMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.QueryStrings.Middleware.ClaimsToQueryStringMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.ClaimsToHeadersMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authorization.Middleware.AuthorizationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Claims.Middleware.ClaimsToClaimsMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Authentication.Middleware.AuthenticationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RequestId.Middleware.RequestIdMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Request.Middleware.DownstreamRequestInitialiserMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Headers.Middleware.HttpHeadersTransformationMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Security.Middleware.SecurityMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Fire(HttpContext httpContext, RequestDelegate next)
+   at Ocelot.Multiplexer.MultiplexingMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Responder.Middleware.ResponderMiddleware.Invoke(HttpContext httpContext)
+   at Ocelot.Errors.Middleware.ExceptionHandlerMiddleware.Invoke(HttpContext httpContext)
+2022-08-08 10:17:51,523 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOSE5FPDHT:00000009, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:17:51,524 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOSE5FPDHT:00000009, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 10:17:51,525 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOSE5FPDHT:00000009, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:17:57,557 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJOSE5FPDHT:00000009, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:9000)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/auth/swagger/v1/swagger.json, request method: GET
+2022-08-08 10:19:43,920 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOSE5FPDHT:0000000B, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:19:43,921 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOSE5FPDHT:0000000B, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 10:19:43,922 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOSE5FPDHT:0000000B, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:19:51,964 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJOSE5FPDHT:0000000B, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:9000)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/auth/swagger/v1/swagger.json, request method: GET
+2022-08-08 10:22:51,560 [.NET ThreadPool Worker] INFO  Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware - requestId: 0HMJOSE5FPDI1:00000003, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /swagger/v1/swagger.json
+2022-08-08 10:22:51,561 [.NET ThreadPool Worker] INFO  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMJOSE5FPDI1:00000003, previousRequestId: no previous request id, message: No authentication needed for /auth/swagger/v1/swagger.json
+2022-08-08 10:22:51,561 [.NET ThreadPool Worker] INFO  Ocelot.Authorization.Middleware.AuthorizationMiddleware - requestId: 0HMJOSE5FPDI1:00000003, previousRequestId: no previous request id, message: /swagger/v1/swagger.json route does not require user to be authorized
+2022-08-08 10:22:59,607 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMJOSE5FPDI1:00000003, previousRequestId: no previous request id, message: Error Code: ConnectionToDownstreamServiceError Message: Error connecting to downstream service, exception: System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。 (desktop-7m8q4rj:9000)
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Ocelot.Requester.HttpClientHttpRequester.GetResponse(HttpContext httpContext) errors found in ResponderMiddleware. Setting error response for request path:/auth/swagger/v1/swagger.json, request method: GET
+2022-08-08 11:43:24,406 [64] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2022-08-08 15:10:38,462 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:8000
+2022-08-08 15:10:38,480 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 15:10:38,482 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 15:10:38,484 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\
+2022-08-08 15:42:44,099 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:8000
+2022-08-08 15:42:44,114 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-08-08 15:42:44,116 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-08-08 15:42:44,117 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\架构学习\NetSouce\MSACormmerce\3.source\YY.MSACormmerce.Project\YY.MSACormmerce.OcelotGateway\

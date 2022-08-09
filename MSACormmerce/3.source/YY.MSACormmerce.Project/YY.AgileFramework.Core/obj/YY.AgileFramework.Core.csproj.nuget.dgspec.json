@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj",
+        "projectName": "YY.AgileFramework.Common",
+        "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj",
+        "projectName": "YY.AgileFramework.Core",
+        "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\YY.AgileFramework.Core.csproj",
+        "packagesPath": "D:\\packages",
+        "outputPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\MSACormmerce\\3.source\\YY.MSACormmerce.Project\\YY.AgileFramework.Common\\YY.AgileFramework.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[1.6.10.6, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NBuilder": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "NConsul": {
+              "target": "Package",
+              "version": "[0.8.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "aliyun-net-sdk-core": {
+              "target": "Package",
+              "version": "[1.5.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -5500,22 +5500,25 @@
   },
   "packageFolders": {
     "D:\\packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\LockService\\LockService.csproj",
+      "projectUniqueName": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\LockService\\LockService.csproj",
       "projectName": "LockService",
-      "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\LockService\\LockService.csproj",
+      "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\LockService\\LockService.csproj",
       "packagesPath": "D:\\packages",
-      "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\LockService\\obj\\",
+      "outputPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\LockService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5529,8 +5532,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\架构学习\\Source\\ZhaoXiSource\\RedLockSource\\RedLockSource.csproj": {
-              "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\RedLockSource\\RedLockSource.csproj"
+            "D:\\架构学习\\NetSouce\\ZhaoXiSource\\RedLockSource\\RedLockSource.csproj": {
+              "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\RedLockSource\\RedLockSource.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FjwfBrxc+fpQej0hTzcE02nJcjINjw/Vkn5crhV2aH+U92zaoxnnR44WUbFP1Rq/q2WQmCjtG7Aegb/BRwUbgQ==",
+  "dgSpecHash": "I6pqVcPu9Pt52MgfpSTCA0Tj+BUjJDNbOsrsew2RWFFKM6TQOXHyswVvLliWDHzdLH5B63HrSBs0x3HEtd2bZQ==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\ELK.Logstach_Kafka\\ELK.Logstach_Kafka.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ELK.Logstach_Kafka\\ELK.Logstach_Kafka.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
     "D:\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",

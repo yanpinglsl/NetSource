@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+bENyPj5Z9s9GjG+eGh62PkqfI02BgRorVaoIyYFoA3zK8FJKFA1qPEL52wWQkB/HJQqC7V2Ql4mIChJO11kjg==",
+  "dgSpecHash": "fPF0h8mk0b3pfkatjwIZ4SI/CZzbhuZXTlbuuma2CpdpLe0QPvQo8ZJyIJ8oMcZUMG0YRE++BF3B9wvxl2Ja9g==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\ISApi\\ISApi.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ISApi\\ISApi.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "D:\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",

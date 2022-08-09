@@ -400,22 +400,25 @@
   },
   "packageFolders": {
     "D:\\packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\ELK.Logstach_File\\ELK.Logstach_File.csproj",
+      "projectUniqueName": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ELK.Logstach_File\\ELK.Logstach_File.csproj",
       "projectName": "ELK.Logstach_File",
-      "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\ELK.Logstach_File\\ELK.Logstach_File.csproj",
+      "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ELK.Logstach_File\\ELK.Logstach_File.csproj",
       "packagesPath": "D:\\packages",
-      "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\ELK.Logstach_File\\obj\\",
+      "outputPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\ELK.Logstach_File\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YJ5XsqtVV350YOHJ4aqJFJLCSqckQzWHylbvpbcxEzBB2bvAQ5OrC/5Y0IYRtlHfNSbuJ/Os06yAUsBri/kMpA==",
+  "dgSpecHash": "l1nCfx/Hf+srD9MmbUuRWnsAto5Z9pvM3f47JnmCBnVkBbcXga8g+4f/+U04cwPut+XF8bpt/gDZQbs/D+7Mvw==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\EFModel\\EFModel.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\EFModel\\EFModel.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "D:\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

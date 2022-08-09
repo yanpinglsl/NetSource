@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Zhaoxi.MSACommerce.Interface
+build_property.ProjectDir = D:\BaiduNetdiskDownload\架构班新学期\20220715Architect02Course109ZXCommerce-02\20220715Architect02Course109ZXCommerce-02\Zhaoxi.MSACommerce.Project\Zhaoxi.MSACommerce.Interface\

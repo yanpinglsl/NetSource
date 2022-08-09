@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQ63hJ5vHodZaA1wiVqwycxE+KZqGsJAxPVI4syOarXanIktDm6enIwpIM1/Wkd2qwmb/CCOWTqoHF4HNHGFkg==",
+  "dgSpecHash": "FTFeQdYZvKGbGg+WqbFXiMBazpMUxWIg23s/F1IcM2pdDH26yQq0QChMzPy9376r+I0fDufTU3Q9XtnW1D1Y/g==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\QuickStartIdentityServer\\IdentityServer.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\QuickStartIdentityServer\\IdentityServer.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "D:\\packages\\identityserver4\\4.1.2\\identityserver4.4.1.2.nupkg.sha512",

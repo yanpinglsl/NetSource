@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\架构学习\\Source\\ZhaoXiSource\\UserService\\UserService.csproj": {}
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\UserService\\UserService.csproj": {}
   },
   "projects": {
-    "D:\\架构学习\\Source\\ZhaoXiSource\\EFModel\\EFModel.csproj": {
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\EFModel\\EFModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\EFModel\\EFModel.csproj",
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\EFModel\\EFModel.csproj",
         "projectName": "EFModel",
-        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\EFModel\\EFModel.csproj",
+        "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\EFModel\\EFModel.csproj",
         "packagesPath": "D:\\packages",
-        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\EFModel\\obj\\",
+        "outputPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\EFModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,20 +73,22 @@
         }
       }
     },
-    "D:\\架构学习\\Source\\ZhaoXiSource\\UserService\\UserService.csproj": {
+    "D:\\架构学习\\NetSouce\\ZhaoXiSource\\UserService\\UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\架构学习\\Source\\ZhaoXiSource\\UserService\\UserService.csproj",
+        "projectUniqueName": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\UserService\\UserService.csproj",
         "projectName": "UserService",
-        "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\UserService\\UserService.csproj",
+        "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\UserService\\UserService.csproj",
         "packagesPath": "D:\\packages",
-        "outputPath": "D:\\架构学习\\Source\\ZhaoXiSource\\UserService\\obj\\",
+        "outputPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\UserService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,8 +102,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\架构学习\\Source\\ZhaoXiSource\\EFModel\\EFModel.csproj": {
-                "projectPath": "D:\\架构学习\\Source\\ZhaoXiSource\\EFModel\\EFModel.csproj"
+              "D:\\架构学习\\NetSouce\\ZhaoXiSource\\EFModel\\EFModel.csproj": {
+                "projectPath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\EFModel\\EFModel.csproj"
               }
             }
           }

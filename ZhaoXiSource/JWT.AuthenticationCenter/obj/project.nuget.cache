@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WBDQh3bT7HPTKHFVXmSDbUh2rtLpimWiIC9kgaqsMmhAMv3IhjdO2gaNZtWfm//zS6EpCK8giY2JTZANcctcLQ==",
+  "dgSpecHash": "TSgYaaX0nPbbM38CK1G6fBeZ/ro7eeV94Ih9ci5JOgqFNBcK1HBOire5MAyGd4c6JBvEU6cyKoE9bzv/BYvxOA==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\JWT.AuthenticationCenter\\JWT.AuthenticationCenter.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "D:\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",

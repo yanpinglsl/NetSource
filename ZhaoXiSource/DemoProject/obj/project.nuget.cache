@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "56f/VENnhUBcNJ/3gyt+LNfeUskms2a/XlgWdsERIxjikhxe6GfSCshTNytx1UV9y7vMsYgcDALTJJNbtKx/lQ==",
+  "dgSpecHash": "XuKD0Ai4lBTT2BpWYSpt+Az78IaV5Pao0DruVREnTDweK8uCIuGhoAe6zVzzSvR8h7rN7Rp34sDf1/ywyz3pDw==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\DemoProject\\DemoProject.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\DemoProject\\DemoProject.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "D:\\packages\\autofac.configuration\\6.0.0\\autofac.configuration.6.0.0.nupkg.sha512",

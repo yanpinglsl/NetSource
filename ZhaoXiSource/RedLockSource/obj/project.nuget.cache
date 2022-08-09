@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cTLKjbSmCS8TwpsOXuyggZL6js0z+92QkL6srjeDSb3273lZo6hLGwwERVpb1b0thvloEQMUIYtNVRRkSIPg4A==",
+  "dgSpecHash": "RR6RcugGDEsAkMiAN7UzEnuqgq2oUrGtsJaq1Ek2SOp8t893E2HtFXl2KcfwFK5IAKlqnLhFPGJ3ZCuSZ2kjNA==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\RedLockSource\\RedLockSource.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\RedLockSource\\RedLockSource.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "D:\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",

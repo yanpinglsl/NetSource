@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EQ8Alozdx9jbTZ3vNzLoHGEiw+nB7Wn9gSmMBk4dom51StyXxuzm+YuycYzh6YrWmY8hjGD9CC//b5rxQWxprg==",
+  "dgSpecHash": "aRkjlKw9+Mq8qImSDz1j/snJF2peD7WfG+JLUMKjcNJwmY+0SfAE37VWcGTh14rVaDhOiGser5ko2JBI9+YbDg==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\AuthProject\\AuthProject.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\AuthProject\\AuthProject.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

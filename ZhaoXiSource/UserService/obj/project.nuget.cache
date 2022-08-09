@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rqFnGbaMASEs+TNMBQNMO2hLFPFp2w/ayONO2EX1cjxSLk+yfLjuPCCZrMQoOUYvUg4mHf5iTobhQIBq9V/mZg==",
+  "dgSpecHash": "8829+7g2GGaKLzry2fWbI9J5ru36MaPeGzjwnbonJoJJeKAj7yLU40RVZFUHH5d7TRyB9Ta/SCOpQ2f1FTP3Mw==",
   "success": true,
-  "projectFilePath": "D:\\架构学习\\Source\\ZhaoXiSource\\UserService\\UserService.csproj",
+  "projectFilePath": "D:\\架构学习\\NetSouce\\ZhaoXiSource\\UserService\\UserService.csproj",
   "expectedPackageFiles": [
     "D:\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
     "D:\\packages\\dotnetcore.cap\\5.1.3\\dotnetcore.cap.5.1.3.nupkg.sha512",

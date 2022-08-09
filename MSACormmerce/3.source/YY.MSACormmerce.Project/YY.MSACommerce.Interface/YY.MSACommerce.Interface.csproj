@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="NEST" Version="7.17.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YY.AgileFramework.Common\YY.AgileFramework.Common.csproj" />
+    <ProjectReference Include="..\YY.AgileFramework.Core\YY.AgileFramework.Core.csproj" />
+    <ProjectReference Include="..\YY.AgileFramework.WechatPayCore\YY.AgileFramework.WechatPayCore.csproj" />
+    <ProjectReference Include="..\YY.MSACommerce.DTOModel\YY.MSACommerce.DTOModel.csproj" />
+    <ProjectReference Include="..\YY.MSACommerce.Model\YY.MSACommerce.Model.csproj" />
+  </ItemGroup>
+
+</Project>
